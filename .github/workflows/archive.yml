@@ -1,0 +1,49 @@
+name: Archive Blue Archive Management Index
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch-and-archive:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch latest index.json
+        run: |
+          mkdir -p prod
+          curl -sS -f https://prod-noticeindex.bluearchiveyostar.com/prod/index.json \ | jq . > prod/index.json
+
+      - name: Check for changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add prod/index.json
+          if git diff --cached --quiet; then
+            echo "No changes detected. Exiting."
+            exit 0
+          fi
+
+      - name: Archive the URL via archive.org
+        run: |
+          curl -X POST "https://web.archive.org/save/https://prod-noticeindex.bluearchiveyostar.com/prod/index.json" \
+               -H "Content-Type: application/x-www-form-urlencoded" \
+               --data-urlencode "url=https://prod-noticeindex.bluearchiveyostar.com/prod/index.json" \
+               --data-urlencode "capture_outlinks=on" > /dev/null
+   
+      - name: Get UTC timestamp
+        id: get_time
+        run: echo "time=$(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> "$GITHUB_OUTPUT"
+        
+      - name: Commit Changes
+        uses: qoomon/actions--create-commit@v1
+        with:
+          message: ${{ steps.get_time.outputs.time }}
+      
+      - name: Push Changes
+        run: git push
