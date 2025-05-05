@@ -25,16 +25,13 @@ jobs:
           git config user.email "actions@github.com"
           git add prod/index.json
           if git diff --cached --quiet; then
-            echo "No changes detected. Exiting."
-            exit 0
-          fi
-
-      - name: Archive the URL via archive.org
-        run: |
-          curl -X POST "https://web.archive.org/save/https://prod-noticeindex.bluearchiveyostar.com/prod/index.json" \
+            echo "No changes detected."
+          else
+            curl -X POST "https://web.archive.org/save/https://prod-noticeindex.bluearchiveyostar.com/prod/index.json" \
                -H "Content-Type: application/x-www-form-urlencoded" \
                --data-urlencode "url=https://prod-noticeindex.bluearchiveyostar.com/prod/index.json" \
                --data-urlencode "capture_outlinks=on" > /dev/null
+          fi
    
       - name: Get UTC timestamp
         id: get_time
@@ -44,6 +41,7 @@ jobs:
         uses: qoomon/actions--create-commit@v1
         with:
           message: ${{ steps.get_time.outputs.time }}
+          skip-empty: true
       
       - name: Push Changes
         run: git push
