@@ -35,22 +35,6 @@
   ],
   "Events": [
     {
-      "NoticeId": 886,
-      "StartDate": "2025-04-21T14:00:00",
-      "EndDate": "2025-05-07T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/886/3286/index382559382.html",
-      "Title": "ピックアップ募集",
-      "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 885,
-      "StartDate": "2025-04-21T15:00:00",
-      "EndDate": "2025-05-07T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/885/3282/index694674421.html",
-      "Title": "イベント紹介",
-      "DisplayOrder": 0
-    },
-    {
       "NoticeId": 891,
       "StartDate": "2025-05-06T14:00:00",
       "EndDate": "2025-05-14T10:59:00",
@@ -67,30 +51,6 @@
   },
   "Banners": [
     {
-      "BannerId": 653,
-      "StartDate": "2025-04-22T11:07:17",
-      "EndDate": "2025-05-07T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/653/885/",
-      "FileName": [
-        "Lobby_Banner_20250422_01_503055308.png"
-      ],
-      "LinkedLobbyBannerId": 761,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 654,
-      "StartDate": "2025-04-22T11:12:02",
-      "EndDate": "2025-05-07T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/654/887/",
-      "FileName": [
-        "Lobby_Banner_20250422_02_101490150.png"
-      ],
-      "LinkedLobbyBannerId": 762,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
       "BannerId": 655,
       "StartDate": "2025-04-22T11:13:16",
       "EndDate": "2025-05-14T10:59:59",
@@ -103,7 +63,7 @@
       "BannerDisplayType": 0
     }
   ],
-  "ServerStatus": 1,
+  "ServerStatus": 5,
   "LatestClientVersion": "1.56.337920",
   "GachaProbabilityDisplay": [
     {
