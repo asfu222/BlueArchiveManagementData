@@ -49,6 +49,22 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/891/3301/index338938643.html",
       "Title": "ピックアップ募集",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 894,
+      "StartDate": "2025-05-13T14:00:00",
+      "EndDate": "2025-05-21T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/894/3305/index586204690.html",
+      "Title": "ピックアップ募集",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 895,
+      "StartDate": "2025-05-13T15:00:00",
+      "EndDate": "2025-05-21T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/895/3306/index755219534.html",
+      "Title": "【復刻イベント】「にぎにぎと ゆきゆきて」紹介",
+      "DisplayOrder": 0
     }
   ],
   "Issues": [],
