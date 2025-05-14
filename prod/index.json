@@ -25,14 +25,6 @@
       "DisplayOrder": 0
     },
     {
-      "NoticeId": 892,
-      "StartDate": "2025-05-06T15:00:00",
-      "EndDate": "2025-05-14T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/892/3302/index366643790.html",
-      "Title": "メンテナンス",
-      "DisplayOrder": 0
-    },
-    {
       "NoticeId": 893,
       "StartDate": "2025-05-12T19:00:00",
       "EndDate": "2025-05-18T19:59:00",
@@ -42,14 +34,6 @@
     }
   ],
   "Events": [
-    {
-      "NoticeId": 891,
-      "StartDate": "2025-05-06T14:00:00",
-      "EndDate": "2025-05-14T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/891/3301/index338938643.html",
-      "Title": "ピックアップ募集",
-      "DisplayOrder": 0
-    },
     {
       "NoticeId": 894,
       "StartDate": "2025-05-13T14:00:00",
@@ -75,42 +59,6 @@
   },
   "Banners": [
     {
-      "BannerId": 657,
-      "StartDate": "2025-05-07T11:03:37",
-      "EndDate": "2025-05-14T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/657/890/",
-      "FileName": [
-        "Lobby_Banner_20241106_02_379590227.png"
-      ],
-      "LinkedLobbyBannerId": 764,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 658,
-      "StartDate": "2025-05-07T11:04:28",
-      "EndDate": "2025-05-14T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/658/891/",
-      "FileName": [
-        "Lobby_Banner_20240117_02_23861379.png"
-      ],
-      "LinkedLobbyBannerId": 765,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 659,
-      "StartDate": "2025-05-07T11:05:17",
-      "EndDate": "2025-05-14T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/659/892/",
-      "FileName": [
-        "Lobby_Banner_20231115_02_265585021.png"
-      ],
-      "LinkedLobbyBannerId": 766,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
       "BannerId": 662,
       "StartDate": "2025-05-07T11:42:58",
       "EndDate": "2025-05-21T10:59:59",
@@ -123,15 +71,63 @@
       "BannerDisplayType": 0
     },
     {
-      "BannerId": 664,
-      "StartDate": "2025-05-07T11:45:34",
-      "EndDate": "2025-05-14T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/664/897/",
+      "BannerId": 666,
+      "StartDate": "2025-05-14T11:00:00",
+      "EndDate": "2025-05-21T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/666/900/",
       "FileName": [
-        "Event_Banner_846_jp_978564613.png"
+        "Lobby_Banner_20250514_01_93015426.png"
       ],
-      "LinkedLobbyBannerId": 846,
+      "LinkedLobbyBannerId": 768,
+      "BannerType": 1,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 667,
+      "StartDate": "2025-05-14T11:00:00",
+      "EndDate": "2025-05-21T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/667/901/",
+      "FileName": [
+        "Lobby_Banner_20250514_02_279753992.png"
+      ],
+      "LinkedLobbyBannerId": 769,
+      "BannerType": 1,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 668,
+      "StartDate": "2025-05-14T11:00:00",
+      "EndDate": "2025-05-21T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/668/902/",
+      "FileName": [
+        "Lobby_Banner_20250514_03_800974696.png"
+      ],
+      "LinkedLobbyBannerId": 770,
+      "BannerType": 1,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 669,
+      "StartDate": "2025-05-14T11:00:00",
+      "EndDate": "2025-05-28T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/669/903/",
+      "FileName": [
+        "Event_Banner_835_Jp_852395558.png"
+      ],
+      "LinkedLobbyBannerId": 10835,
       "BannerType": 0,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 670,
+      "StartDate": "2025-05-14T11:00:00",
+      "EndDate": "2025-05-21T03:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/670/904/",
+      "FileName": [
+        "EliminateRaid_Banner_7_jp_349815972.png"
+      ],
+      "LinkedLobbyBannerId": 0,
+      "BannerType": 27,
       "BannerDisplayType": 0
     }
   ],
