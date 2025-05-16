@@ -381,6 +381,21 @@
       "GotoUrl": "https://balive.page.link/20250420",
       "DisplayOrder": 0,
       "PopupOKText": "見に行く"
+    },
+    {
+      "GuidePopupId": 25,
+      "GuidePopupType": 1,
+      "PopupType": 1,
+      "StartDate": "2025-05-18T18:50:00",
+      "EndDate": "2025-05-18T20:05:00",
+      "FileName": "Live_202505.png",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/25/47/",
+      "Message": "　　　ブルアカらいぶ！みに♪ 　　　放送中！",
+      "SurveyId": 0,
+      "NotifyUrl": null,
+      "GotoUrl": "https://app.adjust.com/1odo4he4?redirect=https%3A%2F%2Fyoutube.com%2Flive%2FwU_uqiX6eAE",
+      "DisplayOrder": 0,
+      "PopupOKText": "見に行く"
     }
   ],
   "DownloadLimitTime": 0.0,
