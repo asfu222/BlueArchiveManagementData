@@ -35,22 +35,6 @@
   ],
   "Events": [
     {
-      "NoticeId": 894,
-      "StartDate": "2025-05-13T14:00:00",
-      "EndDate": "2025-05-21T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/894/3305/index586204690.html",
-      "Title": "ピックアップ募集",
-      "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 895,
-      "StartDate": "2025-05-13T15:00:00",
-      "EndDate": "2025-05-21T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/895/3306/index755219534.html",
-      "Title": "【復刻イベント】「にぎにぎと ゆきゆきて」紹介",
-      "DisplayOrder": 0
-    },
-    {
       "NoticeId": 896,
       "StartDate": "2025-05-20T14:00:00",
       "EndDate": "2025-06-04T10:59:00",
@@ -65,69 +49,8 @@
     "EndDate": "2025-05-21T19:00:00",
     "Text": "定期メンテナンス中"
   },
-  "Banners": [
-    {
-      "BannerId": 662,
-      "StartDate": "2025-05-07T11:42:58",
-      "EndDate": "2025-05-21T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/662/895/",
-      "FileName": [
-        "Event_Banner_Mini_70000_Jp_281106419.png"
-      ],
-      "LinkedLobbyBannerId": 70003,
-      "BannerType": 34,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 666,
-      "StartDate": "2025-05-14T11:00:00",
-      "EndDate": "2025-05-21T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/666/900/",
-      "FileName": [
-        "Lobby_Banner_20250514_01_93015426.png"
-      ],
-      "LinkedLobbyBannerId": 768,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 667,
-      "StartDate": "2025-05-14T11:00:00",
-      "EndDate": "2025-05-21T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/667/901/",
-      "FileName": [
-        "Lobby_Banner_20250514_02_279753992.png"
-      ],
-      "LinkedLobbyBannerId": 769,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 668,
-      "StartDate": "2025-05-14T11:00:00",
-      "EndDate": "2025-05-21T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/668/902/",
-      "FileName": [
-        "Lobby_Banner_20250514_03_800974696.png"
-      ],
-      "LinkedLobbyBannerId": 770,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 669,
-      "StartDate": "2025-05-14T11:00:00",
-      "EndDate": "2025-05-28T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/669/903/",
-      "FileName": [
-        "Event_Banner_835_Jp_852395558.png"
-      ],
-      "LinkedLobbyBannerId": 10835,
-      "BannerType": 0,
-      "BannerDisplayType": 0
-    }
-  ],
-  "ServerStatus": 1,
+  "Banners": [],
+  "ServerStatus": 5,
   "LatestClientVersion": "1.56.337920",
   "GachaProbabilityDisplay": [
     {
@@ -170,48 +93,6 @@
       "GachaProbabilityDisplayId": 359,
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/359/index.html",
       "LinkedLobbyBannerId": 1003,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 425,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/425/index.html",
-      "LinkedLobbyBannerId": 760,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 426,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/426/index.html",
-      "LinkedLobbyBannerId": 761,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 427,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/427/index.html",
-      "LinkedLobbyBannerId": 762,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 428,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/428/index.html",
-      "LinkedLobbyBannerId": 763,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 429,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/429/index.html",
-      "LinkedLobbyBannerId": 764,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 430,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/430/index.html",
-      "LinkedLobbyBannerId": 765,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 431,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/431/index.html",
-      "LinkedLobbyBannerId": 766,
       "GachaDisplayTag": -1
     },
     {
