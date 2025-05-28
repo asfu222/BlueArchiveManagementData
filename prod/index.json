@@ -23,14 +23,6 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/890/3298/index173262614.html",
       "Title": "総力戦＆大決戦スケジュール",
       "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 897,
-      "StartDate": "2025-05-20T15:00:00",
-      "EndDate": "2025-05-28T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/897/3316/index884365427.html",
-      "Title": "メンテナンス",
-      "DisplayOrder": 0
     }
   ],
   "Events": [
@@ -87,15 +79,15 @@
       "BannerDisplayType": 0
     },
     {
-      "BannerId": 675,
-      "StartDate": "2025-05-21T11:15:00",
-      "EndDate": "2025-05-28T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/675/909/",
+      "BannerId": 674,
+      "StartDate": "2025-05-28T11:00:00",
+      "EndDate": "2025-06-04T03:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/674/908/",
       "FileName": [
-        "Event_Banner_835_Jp_876440219.png"
+        "Raid_Banner_20_Jp_172095654.png"
       ],
-      "LinkedLobbyBannerId": 10835,
-      "BannerType": 0,
+      "LinkedLobbyBannerId": 0,
+      "BannerType": 4,
       "BannerDisplayType": 0
     }
   ],
