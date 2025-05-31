@@ -1,5 +1,14 @@
 {
-  "Notices": [],
+  "Notices": [
+    {
+      "NoticeId": 898,
+      "StartDate": "2025-05-31T12:00:00",
+      "EndDate": "2025-06-30T23:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/898/3318/index213595112.html",
+      "Title": "生徒誕生日カレンダー(2025年6月)",
+      "DisplayOrder": 0
+    }
+  ],
   "Events": [
     {
       "NoticeId": 896,
