@@ -25,6 +25,14 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/896/3309/index116358726.html",
       "Title": "ピックアップ募集",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 900,
+      "StartDate": "2025-06-03T14:00:00",
+      "EndDate": "2025-06-18T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/900/3324/index564643251.html",
+      "Title": "ピックアップ募集",
+      "DisplayOrder": 0
     }
   ],
   "Issues": [],
