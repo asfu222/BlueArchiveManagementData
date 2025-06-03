@@ -93,18 +93,6 @@
       "LinkedLobbyBannerId": 60013,
       "BannerType": 22,
       "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 674,
-      "StartDate": "2025-05-28T11:00:00",
-      "EndDate": "2025-06-04T03:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/674/908/",
-      "FileName": [
-        "Raid_Banner_20_Jp_172095654.png"
-      ],
-      "LinkedLobbyBannerId": 0,
-      "BannerType": 4,
-      "BannerDisplayType": 0
     }
   ],
   "ServerStatus": 1,
