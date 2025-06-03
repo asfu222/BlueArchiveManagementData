@@ -15,6 +15,14 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/899/3319/index851520053.html",
       "Title": "総力戦＆大決戦スケジュール(2025年6月)",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 901,
+      "StartDate": "2025-06-03T15:00:00",
+      "EndDate": "2025-06-11T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/901/3327/index927613253.html",
+      "Title": "メンテナンス",
+      "DisplayOrder": 0
     }
   ],
   "Events": [
@@ -32,6 +40,14 @@
       "EndDate": "2025-06-18T10:59:00",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/900/3324/index564643251.html",
       "Title": "ピックアップ募集",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 902,
+      "StartDate": "2025-06-03T15:00:00",
+      "EndDate": "2025-06-18T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/902/3328/index712397611.html",
+      "Title": "イベント紹介",
       "DisplayOrder": 0
     }
   ],
