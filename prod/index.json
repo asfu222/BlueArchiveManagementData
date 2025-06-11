@@ -15,14 +15,6 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/899/3319/index851520053.html",
       "Title": "総力戦＆大決戦スケジュール(2025年6月)",
       "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 901,
-      "StartDate": "2025-06-03T15:00:00",
-      "EndDate": "2025-06-11T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/901/3331/index97851126.html",
-      "Title": "メンテナンス",
-      "DisplayOrder": 0
     }
   ],
   "Events": [
@@ -111,15 +103,15 @@
       "BannerDisplayType": 0
     },
     {
-      "BannerId": 683,
-      "StartDate": "2025-06-04T11:48:04",
-      "EndDate": "2025-06-11T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/683/917/",
+      "BannerId": 682,
+      "StartDate": "2025-06-11T11:00:00",
+      "EndDate": "2025-06-18T03:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/682/916/",
       "FileName": [
-        "Event_Banner_Mini_60000_Jp_371202394.png"
+        "EliminateRaid_Banner_9_jp_564579820.png"
       ],
-      "LinkedLobbyBannerId": 60013,
-      "BannerType": 22,
+      "LinkedLobbyBannerId": 0,
+      "BannerType": 27,
       "BannerDisplayType": 0
     }
   ],
