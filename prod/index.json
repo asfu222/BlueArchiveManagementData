@@ -216,6 +216,36 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/443/index.html",
       "LinkedLobbyBannerId": 787,
       "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 444,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/444/index.html",
+      "LinkedLobbyBannerId": 788,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 445,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/445/index.html",
+      "LinkedLobbyBannerId": 789,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 446,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/446/index.html",
+      "LinkedLobbyBannerId": 790,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 447,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/447/index.html",
+      "LinkedLobbyBannerId": 791,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 448,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/448/index.html",
+      "LinkedLobbyBannerId": 792,
+      "GachaDisplayTag": -1
     }
   ],
   "MarketAppleId": null,
