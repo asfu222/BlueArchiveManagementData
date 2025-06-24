@@ -15,6 +15,14 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/906/3339/index867285122.html",
       "Title": "公開生放送 実施決定！",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 909,
+      "StartDate": "2025-06-24T15:00:00",
+      "EndDate": "2025-07-09T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/909/3347/index184192336.html",
+      "Title": "メンテナンス",
+      "DisplayOrder": 0
     }
   ],
   "Events": [
@@ -32,6 +40,14 @@
       "EndDate": "2025-07-09T10:59:00",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/907/3340/index259089779.html",
       "Title": "ピックアップ募集",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 908,
+      "StartDate": "2025-06-24T15:00:00",
+      "EndDate": "2025-07-09T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/908/3345/index268792398.html",
+      "Title": "イベント紹介",
       "DisplayOrder": 0
     }
   ],
