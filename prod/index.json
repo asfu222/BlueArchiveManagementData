@@ -27,14 +27,6 @@
   ],
   "Events": [
     {
-      "NoticeId": 905,
-      "StartDate": "2025-06-17T14:00:00",
-      "EndDate": "2025-06-25T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/905/3337/index914405178.html",
-      "Title": "ピックアップ募集",
-      "DisplayOrder": 0
-    },
-    {
       "NoticeId": 907,
       "StartDate": "2025-06-24T14:00:00",
       "EndDate": "2025-07-09T10:59:00",
@@ -51,84 +43,14 @@
       "DisplayOrder": 0
     }
   ],
-  "Issues": [
-    {
-      "NoticeId": 903,
-      "StartDate": "2025-06-13T13:30:00",
-      "EndDate": "2025-06-25T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/903/3333/index92135112.html",
-      "Title": "[6月13日(金)]既知の不具合）",
-      "DisplayOrder": 0
-    }
-  ],
+  "Issues": [],
   "Maintenance": {
     "StartDate": "2025-06-25T11:00:00",
     "EndDate": "2025-06-25T19:00:00",
     "Text": "定期メンテナンス中"
   },
-  "Banners": [
-    {
-      "BannerId": 680,
-      "StartDate": "2025-06-04T11:00:00",
-      "EndDate": "2025-06-25T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/680/914/",
-      "FileName": [
-        "Event_Banner_836_Jp_215814105.png"
-      ],
-      "LinkedLobbyBannerId": 10836,
-      "BannerType": 0,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 684,
-      "StartDate": "2025-06-18T11:00:00",
-      "EndDate": "2025-06-25T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/684/918/",
-      "FileName": [
-        "Lobby_Banner_20230816_02_881880270.png"
-      ],
-      "LinkedLobbyBannerId": 789,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 685,
-      "StartDate": "2025-06-18T11:00:00",
-      "EndDate": "2025-06-25T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/685/919/",
-      "FileName": [
-        "Lobby_Banner_20230816_03_343294270.png"
-      ],
-      "LinkedLobbyBannerId": 790,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 686,
-      "StartDate": "2025-06-18T11:00:00",
-      "EndDate": "2025-06-25T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/686/920/",
-      "FileName": [
-        "Lobby_Banner_20241016_02_631917258.png"
-      ],
-      "LinkedLobbyBannerId": 791,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 687,
-      "StartDate": "2025-06-18T11:00:00",
-      "EndDate": "2025-06-25T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/687/921/",
-      "FileName": [
-        "Lobby_Banner_20241016_01_233579491.png"
-      ],
-      "LinkedLobbyBannerId": 792,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    }
-  ],
-  "ServerStatus": 1,
+  "Banners": [],
+  "ServerStatus": 5,
   "LatestClientVersion": "1.57.342681",
   "GachaProbabilityDisplay": [
     {
@@ -171,84 +93,6 @@
       "GachaProbabilityDisplayId": 359,
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/359/index.html",
       "LinkedLobbyBannerId": 1003,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 436,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/436/index.html",
-      "LinkedLobbyBannerId": 780,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 437,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/437/index.html",
-      "LinkedLobbyBannerId": 781,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 438,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/438/index.html",
-      "LinkedLobbyBannerId": 782,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 439,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/439/index.html",
-      "LinkedLobbyBannerId": 783,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 440,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/440/index.html",
-      "LinkedLobbyBannerId": 784,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 441,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/441/index.html",
-      "LinkedLobbyBannerId": 785,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 442,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/442/index.html",
-      "LinkedLobbyBannerId": 786,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 443,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/443/index.html",
-      "LinkedLobbyBannerId": 787,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 444,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/444/index.html",
-      "LinkedLobbyBannerId": 788,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 445,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/445/index.html",
-      "LinkedLobbyBannerId": 789,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 446,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/446/index.html",
-      "LinkedLobbyBannerId": 790,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 447,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/447/index.html",
-      "LinkedLobbyBannerId": 791,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 448,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/448/index.html",
-      "LinkedLobbyBannerId": 792,
       "GachaDisplayTag": -1
     }
   ],
