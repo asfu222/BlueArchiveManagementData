@@ -15,6 +15,22 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/909/3348/index666858571.html",
       "Title": "メンテナンス",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 910,
+      "StartDate": "2025-07-01T15:00:00",
+      "EndDate": "2025-07-31T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/910/3349/index999750126.html",
+      "Title": "生徒誕生日カレンダー(2025年7月)",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 911,
+      "StartDate": "2025-07-01T15:00:00",
+      "EndDate": "2025-07-31T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/911/3351/index792818157.html",
+      "Title": "総力戦＆大決戦スケジュール(2025年7月)",
+      "DisplayOrder": 0
     }
   ],
   "Events": [
