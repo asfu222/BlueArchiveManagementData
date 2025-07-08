@@ -41,6 +41,14 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/908/3345/index268792398.html",
       "Title": "イベント紹介",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 912,
+      "StartDate": "2025-07-08T14:00:00",
+      "EndDate": "2025-07-22T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/912/3352/index811510027.html",
+      "Title": "ピックアップ募集",
+      "DisplayOrder": 0
     }
   ],
   "Issues": [],
