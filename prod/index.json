@@ -35,22 +35,6 @@
   ],
   "Events": [
     {
-      "NoticeId": 907,
-      "StartDate": "2025-06-24T14:00:00",
-      "EndDate": "2025-07-09T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/907/3340/index259089779.html",
-      "Title": "ピックアップ募集",
-      "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 908,
-      "StartDate": "2025-06-24T15:00:00",
-      "EndDate": "2025-07-09T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/908/3345/index268792398.html",
-      "Title": "イベント紹介",
-      "DisplayOrder": 0
-    },
-    {
       "NoticeId": 912,
       "StartDate": "2025-07-08T14:00:00",
       "EndDate": "2025-07-22T10:59:00",
@@ -65,45 +49,8 @@
     "EndDate": "2025-07-09T17:00:00",
     "Text": "定期メンテナンス中"
   },
-  "Banners": [
-    {
-      "BannerId": 688,
-      "StartDate": "2025-06-25T11:14:14",
-      "EndDate": "2025-07-09T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/688/924/",
-      "FileName": [
-        "Lobby_Banner_20250625_01_658303867.png"
-      ],
-      "LinkedLobbyBannerId": 801,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 689,
-      "StartDate": "2025-06-25T11:15:15",
-      "EndDate": "2025-07-09T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/689/923/",
-      "FileName": [
-        "Lobby_Banner_20250625_02_686292561.png"
-      ],
-      "LinkedLobbyBannerId": 802,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 690,
-      "StartDate": "2025-06-25T11:15:48",
-      "EndDate": "2025-07-16T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/690/925/",
-      "FileName": [
-        "Event_Banner_847_jp_948390141.png"
-      ],
-      "LinkedLobbyBannerId": 847,
-      "BannerType": 0,
-      "BannerDisplayType": 0
-    }
-  ],
-  "ServerStatus": 1,
+  "Banners": [],
+  "ServerStatus": 7,
   "LatestClientVersion": "1.58.349018",
   "GachaProbabilityDisplay": [
     {
