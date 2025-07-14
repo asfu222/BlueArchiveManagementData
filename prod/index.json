@@ -379,6 +379,21 @@
       "GotoUrl": "https://app.adjust.com/1p7m6vkt?redirect=https%3A%2F%2Fwww.youtube.com%2Flive%2FTWpdl4nufCU",
       "DisplayOrder": 0,
       "PopupOKText": "見に行く"
+    },
+    {
+      "GuidePopupId": 27,
+      "GuidePopupType": 1,
+      "PopupType": 1,
+      "StartDate": "2025-07-19T18:25:00",
+      "EndDate": "2025-07-19T21:45:00",
+      "FileName": "Live_202507_v2.png",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/27/51/",
+      "Message": "　　　　夏のブルアカらいぶ！　　　　放送中！\t",
+      "SurveyId": 0,
+      "NotifyUrl": null,
+      "GotoUrl": "https://app.adjust.com/1q2goa0s?redirect=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyYorFhF3T_Q",
+      "DisplayOrder": 0,
+      "PopupOKText": "見に行く"
     }
   ],
   "DownloadLimitTime": 0.0,
