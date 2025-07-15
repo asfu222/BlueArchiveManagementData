@@ -99,18 +99,6 @@
       "BannerDisplayType": 0
     },
     {
-      "BannerId": 696,
-      "StartDate": "2025-07-09T11:13:03",
-      "EndDate": "2025-07-16T03:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/696/932/",
-      "FileName": [
-        "TimeAttack_Banner_Jp_860153199.png"
-      ],
-      "LinkedLobbyBannerId": 0,
-      "BannerType": 26,
-      "BannerDisplayType": 0
-    },
-    {
       "BannerId": 698,
       "StartDate": "2025-07-09T11:15:57",
       "EndDate": "2025-07-16T10:59:59",
