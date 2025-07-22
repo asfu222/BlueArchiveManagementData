@@ -50,8 +50,10 @@
     "Text": "定期メンテナンス中"
   },
   "Banners": [],
-  "ServerStatus": 7,
+  "ServerStatus": 5,
   "LatestClientVersion": "1.58.349018",
+  "LatestAndroidClientVersion": null,
+  "LatestIosClientVersion": null,
   "GachaProbabilityDisplay": [
     {
       "GachaProbabilityDisplayId": 62,
