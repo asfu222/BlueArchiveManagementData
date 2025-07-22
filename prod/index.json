@@ -242,18 +242,18 @@
   },
   "GuidePopup": [
     {
-      "GuidePopupId": 29,
+      "GuidePopupId": 30,
       "GuidePopupType": 0,
       "PopupType": 1,
-      "StartDate": "2025-07-22T14:10:32",
+      "StartDate": "2025-07-22T14:43:58",
       "EndDate": "2025-08-06T10:55:00",
-      "FileName": "4.5th_survey.png",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/29/55/",
+      "FileName": "survey_0722.png",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/30/59/",
       "Message": "アンケートに協力して、報酬を受け取りましょう！",
       "SurveyId": 317591590,
       "NotifyUrl": null,
       "GotoUrl": null,
-      "DisplayOrder": 1,
+      "DisplayOrder": 0,
       "PopupOKText": ""
     }
   ],
