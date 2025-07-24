@@ -227,6 +227,10 @@
     {
       "GachaPeriodDisplayId": 140,
       "Text": "2022/02/23 メンテナンス後 ～ 2022/03/09 メンテナンス前まで"
+    },
+    {
+      "GachaPeriodDisplayId": 6000,
+      "Text": " "
     }
   ],
   "RaidPeriodDisplay": null,
