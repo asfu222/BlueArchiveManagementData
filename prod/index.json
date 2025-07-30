@@ -15,25 +15,9 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/911/3351/index792818157.html",
       "Title": "総力戦＆大決戦スケジュール(2025年7月)",
       "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 916,
-      "StartDate": "2025-07-21T15:30:00",
-      "EndDate": "2025-07-30T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/916/3367/index816089383.html",
-      "Title": "メンテナンス",
-      "DisplayOrder": 0
     }
   ],
   "Events": [
-    {
-      "NoticeId": 915,
-      "StartDate": "2025-07-21T14:00:00",
-      "EndDate": "2025-07-30T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/915/3362/index969950099.html",
-      "Title": "ピックアップ募集",
-      "DisplayOrder": 0
-    },
     {
       "NoticeId": 917,
       "StartDate": "2025-07-21T15:30:00",
@@ -59,26 +43,38 @@
   },
   "Banners": [
     {
-      "BannerId": 699,
-      "StartDate": "2025-07-22T11:06:00",
-      "EndDate": "2025-07-30T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/699/935/",
+      "BannerId": 701,
+      "StartDate": "2025-07-30T11:00:00",
+      "EndDate": "2025-08-06T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/701/937/",
       "FileName": [
-        "Lobby_Banner_20250722_01_155569845.png"
+        "Lobby_Banner_20250730_01_745123885.png"
       ],
-      "LinkedLobbyBannerId": 811,
+      "LinkedLobbyBannerId": 814,
       "BannerType": 1,
       "BannerDisplayType": 0
     },
     {
-      "BannerId": 700,
-      "StartDate": "2025-07-22T11:10:34",
-      "EndDate": "2025-07-30T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/700/936/",
+      "BannerId": 702,
+      "StartDate": "2025-07-30T11:00:00",
+      "EndDate": "2025-08-06T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/702/938/",
       "FileName": [
-        "Lobby_Banner_20250722_02_375058025.png"
+        "Lobby_Banner_20250730_02_988685672.png"
       ],
-      "LinkedLobbyBannerId": 812,
+      "LinkedLobbyBannerId": 815,
+      "BannerType": 1,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 703,
+      "StartDate": "2025-07-30T11:00:00",
+      "EndDate": "2025-08-06T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/703/939/",
+      "FileName": [
+        "Lobby_Banner_20250730_03_602471133.png"
+      ],
+      "LinkedLobbyBannerId": 816,
       "BannerType": 1,
       "BannerDisplayType": 0
     },
@@ -95,27 +91,27 @@
       "BannerDisplayType": 0
     },
     {
-      "BannerId": 705,
-      "StartDate": "2025-07-22T11:14:26",
-      "EndDate": "2025-07-30T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/705/941/",
+      "BannerId": 706,
+      "StartDate": "2025-07-30T11:00:00",
+      "EndDate": "2025-08-06T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/706/942/",
       "FileName": [
-        "Lobby_Banner_20250722_03_495949844.png"
+        "Lobby_Banner_20250722_03_3493361.png"
       ],
       "LinkedLobbyBannerId": 5000,
       "BannerType": 1,
       "BannerDisplayType": 0
     },
     {
-      "BannerId": 708,
-      "StartDate": "2025-07-22T11:19:09",
-      "EndDate": "2025-07-30T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/708/944/",
+      "BannerId": 707,
+      "StartDate": "2025-07-30T11:00:00",
+      "EndDate": "2025-08-06T03:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/707/943/",
       "FileName": [
-        "Event_Banner_Mini_60000_2_Jp_996263868.png"
+        "Raid_Banner_13_（市街地）jp_939598683.png"
       ],
-      "LinkedLobbyBannerId": 60014,
-      "BannerType": 22,
+      "LinkedLobbyBannerId": 0,
+      "BannerType": 4,
       "BannerDisplayType": 0
     }
   ],
