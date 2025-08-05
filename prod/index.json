@@ -133,18 +133,6 @@
       "LinkedLobbyBannerId": 5000,
       "BannerType": 1,
       "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 707,
-      "StartDate": "2025-07-30T11:00:00",
-      "EndDate": "2025-08-06T03:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/707/943/",
-      "FileName": [
-        "Raid_Banner_13_（市街地）jp_939598683.png"
-      ],
-      "LinkedLobbyBannerId": 0,
-      "BannerType": 4,
-      "BannerDisplayType": 0
     }
   ],
   "ServerStatus": 1,
