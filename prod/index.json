@@ -15,6 +15,22 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/919/3369/index501177259.html",
       "Title": "誕生日カレンダー",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 922,
+      "StartDate": "2025-08-05T15:00:00",
+      "EndDate": "2025-08-13T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/922/3376/index142640824.html",
+      "Title": "メンテナンス",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 923,
+      "StartDate": "2025-08-05T15:00:00",
+      "EndDate": "2025-08-13T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/923/3375/index439717951.html",
+      "Title": "イベント紹介",
+      "DisplayOrder": 0
     }
   ],
   "Events": [
@@ -31,6 +47,14 @@
       "StartDate": "2025-07-29T14:00:00",
       "EndDate": "2025-08-06T10:59:00",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/918/3368/index191222547.html",
+      "Title": "ピックアップ募集",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 921,
+      "StartDate": "2025-08-05T14:00:00",
+      "EndDate": "2025-08-13T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/921/3377/index112112839.html",
       "Title": "ピックアップ募集",
       "DisplayOrder": 0
     }
