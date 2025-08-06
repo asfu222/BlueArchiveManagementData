@@ -261,6 +261,21 @@
       "GotoUrl": null,
       "DisplayOrder": 0,
       "PopupOKText": ""
+    },
+    {
+      "GuidePopupId": 33,
+      "GuidePopupType": 0,
+      "PopupType": 1,
+      "StartDate": "2025-08-06T17:54:21",
+      "EndDate": "2025-08-06T23:59:59",
+      "FileName": "survey_0722.png",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/33/64/",
+      "Message": "アンケートに協力して、報酬を受け取りましょう！",
+      "SurveyId": 317591590,
+      "NotifyUrl": null,
+      "GotoUrl": null,
+      "DisplayOrder": 1,
+      "PopupOKText": ""
     }
   ],
   "DownloadLimitTime": 0.0,
