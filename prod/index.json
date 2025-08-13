@@ -43,30 +43,6 @@
   },
   "Banners": [
     {
-      "BannerId": 709,
-      "StartDate": "2025-08-06T11:12:20",
-      "EndDate": "2025-08-13T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/709/945/",
-      "FileName": [
-        "Lobby_Banner_20250806_01_944041011.png"
-      ],
-      "LinkedLobbyBannerId": 818,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 710,
-      "StartDate": "2025-08-06T11:13:22",
-      "EndDate": "2025-08-13T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/710/946/",
-      "FileName": [
-        "Lobby_Banner_20250806_02_951798941.png"
-      ],
-      "LinkedLobbyBannerId": 819,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
       "BannerId": 711,
       "StartDate": "2025-08-06T11:14:06",
       "EndDate": "2025-08-20T10:59:59",
@@ -79,26 +55,74 @@
       "BannerDisplayType": 0
     },
     {
-      "BannerId": 713,
-      "StartDate": "2025-08-06T11:22:22",
-      "EndDate": "2025-08-13T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/713/950/",
+      "BannerId": 719,
+      "StartDate": "2025-08-13T11:00:00",
+      "EndDate": "2025-08-20T03:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/719/956/",
       "FileName": [
-        "Event_Banner_848_jp_472083933.png"
+        "EliminateRaid_Banner_4_jp_682903045.png"
       ],
-      "LinkedLobbyBannerId": 848,
-      "BannerType": 0,
+      "LinkedLobbyBannerId": 0,
+      "BannerType": 27,
       "BannerDisplayType": 0
     },
     {
-      "BannerId": 714,
-      "StartDate": "2025-08-06T11:24:25",
-      "EndDate": "2025-08-13T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/714/951/",
+      "BannerId": 720,
+      "StartDate": "2025-08-13T11:00:00",
+      "EndDate": "2025-08-20T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/720/957/",
       "FileName": [
-        "Lobby_Banner_20250722_03_979665668.png"
+        "Lobby_Banner_20250722_03_787347101.png"
       ],
       "LinkedLobbyBannerId": 5000,
+      "BannerType": 1,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 715,
+      "StartDate": "2025-08-13T11:00:00",
+      "EndDate": "2025-08-20T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/715/952/",
+      "FileName": [
+        "Lobby_Banner_20240417_01_240952007.png"
+      ],
+      "LinkedLobbyBannerId": 821,
+      "BannerType": 1,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 716,
+      "StartDate": "2025-08-13T11:00:00",
+      "EndDate": "2025-08-20T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/716/953/",
+      "FileName": [
+        "Lobby_Banner_20240417_02_307582172.png"
+      ],
+      "LinkedLobbyBannerId": 822,
+      "BannerType": 1,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 717,
+      "StartDate": "2025-08-13T11:00:00",
+      "EndDate": "2025-08-20T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/717/954/",
+      "FileName": [
+        "Lobby_Banner_20250813_01_284786769.png"
+      ],
+      "LinkedLobbyBannerId": 823,
+      "BannerType": 1,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 718,
+      "StartDate": "2025-08-13T11:00:00",
+      "EndDate": "2025-08-20T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/718/955/",
+      "FileName": [
+        "Lobby_Banner_20250813_02_514859245.png"
+      ],
+      "LinkedLobbyBannerId": 824,
       "BannerType": 1,
       "BannerDisplayType": 0
     }
