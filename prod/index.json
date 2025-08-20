@@ -42,7 +42,7 @@
     "Text": "定期メンテナンス中"
   },
   "Banners": [],
-  "ServerStatus": 7,
+  "ServerStatus": 5,
   "LatestClientVersion": "1.59.359309",
   "LatestAndroidClientVersion": "1.59.359309",
   "LatestIosClientVersion": "1.59.359309",
@@ -90,63 +90,9 @@
       "GachaDisplayTag": -1
     },
     {
-      "GachaProbabilityDisplayId": 457,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/457/index.html",
-      "LinkedLobbyBannerId": 5000,
-      "GachaDisplayTag": -1
-    },
-    {
       "GachaProbabilityDisplayId": 464,
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/464/index.html",
       "LinkedLobbyBannerId": 6000,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 465,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/465/index.html",
-      "LinkedLobbyBannerId": 817,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 466,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/466/index.html",
-      "LinkedLobbyBannerId": 818,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 467,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/467/index.html",
-      "LinkedLobbyBannerId": 819,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 468,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/468/index.html",
-      "LinkedLobbyBannerId": 820,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 469,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/469/index.html",
-      "LinkedLobbyBannerId": 821,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 470,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/470/index.html",
-      "LinkedLobbyBannerId": 822,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 471,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/471/index.html",
-      "LinkedLobbyBannerId": 823,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 472,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/472/index.html",
-      "LinkedLobbyBannerId": 824,
       "GachaDisplayTag": -1
     }
   ],
