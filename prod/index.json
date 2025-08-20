@@ -43,9 +43,9 @@
   },
   "Banners": [],
   "ServerStatus": 5,
-  "LatestClientVersion": "1.59.359309",
-  "LatestAndroidClientVersion": "1.59.359309",
-  "LatestIosClientVersion": "1.59.359309",
+  "LatestClientVersion": "1.60.365038",
+  "LatestAndroidClientVersion": "1.60.365038",
+  "LatestIosClientVersion": "1.60.365038",
   "GachaProbabilityDisplay": [
     {
       "GachaProbabilityDisplayId": 62,
@@ -94,9 +94,26 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/464/index.html",
       "LinkedLobbyBannerId": 6000,
       "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 473,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/473/index.html",
+      "LinkedLobbyBannerId": 830,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 474,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/474/index.html",
+      "LinkedLobbyBannerId": 831,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 475,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/475/index.html",
+      "LinkedLobbyBannerId": 832,
+      "GachaDisplayTag": -1
     }
   ],
-  "MarketAppleId": null,
   "NotificationBeforeMaintenance": {
     "PopupType": 1,
     "StartDate": "2023-12-19T00:00:00+09:00",
@@ -122,7 +139,6 @@
       "Text": " "
     }
   ],
-  "RaidPeriodDisplay": null,
   "Survey": {
     "SurveyId": 199990730,
     "PopupType": 1,
@@ -130,8 +146,7 @@
     "EndDate": "2023-01-23T23:59:59",
     "FileName": "Lobby_Banner.png",
     "Url": "https://prod-notice.bluearchiveyostar.com/prod/SurveyGuidePopup/199990730/",
-    "Text": "ブルアカ2周年　特別アンケート",
-    "NotifyUrl": null
+    "Text": "ブルアカ2周年　特別アンケート"
   },
   "GuidePopup": [
     {
@@ -144,8 +159,6 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/30/59/",
       "Message": "アンケートに協力して、報酬を受け取りましょう！",
       "SurveyId": 317591590,
-      "NotifyUrl": null,
-      "GotoUrl": null,
       "DisplayOrder": 0,
       "PopupOKText": ""
     },
@@ -159,8 +172,6 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/33/64/",
       "Message": "アンケートに協力して、報酬を受け取りましょう！",
       "SurveyId": 317591590,
-      "NotifyUrl": null,
-      "GotoUrl": null,
       "DisplayOrder": 1,
       "PopupOKText": ""
     },
@@ -174,7 +185,6 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/34/65/",
       "Message": "　　　ブルアカらいぶ！みに♪ 　　　放送中！",
       "SurveyId": 0,
-      "NotifyUrl": null,
       "GotoUrl": "https://app.adjust.com/1rsl9e84?redirect=https%3A%2F%2Fwww.youtube.com%2Flive%2FliDeHO9e7_U",
       "DisplayOrder": 0,
       "PopupOKText": "見に行く"
