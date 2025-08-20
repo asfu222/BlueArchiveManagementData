@@ -19,22 +19,6 @@
   ],
   "Events": [
     {
-      "NoticeId": 924,
-      "StartDate": "2025-08-12T14:00:00",
-      "EndDate": "2025-08-20T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/924/3380/index153946770.html",
-      "Title": "ピックアップ募集",
-      "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 926,
-      "StartDate": "2025-08-01T14:00:00",
-      "EndDate": "2025-08-20T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/926/3382/index100116974.html",
-      "Title": "イベント紹介",
-      "DisplayOrder": 0
-    },
-    {
       "NoticeId": 927,
       "StartDate": "2025-08-19T14:00:00",
       "EndDate": "2025-09-03T10:59:00",
@@ -57,81 +41,8 @@
     "EndDate": "2025-08-20T19:00:00",
     "Text": "定期メンテナンス中"
   },
-  "Banners": [
-    {
-      "BannerId": 711,
-      "StartDate": "2025-08-06T11:14:06",
-      "EndDate": "2025-08-20T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/711/948/",
-      "FileName": [
-        "Event_Banner_837_Jp_557841838.png"
-      ],
-      "LinkedLobbyBannerId": 10837,
-      "BannerType": 0,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 720,
-      "StartDate": "2025-08-13T11:00:00",
-      "EndDate": "2025-08-20T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/720/957/",
-      "FileName": [
-        "Lobby_Banner_20250722_03_787347101.png"
-      ],
-      "LinkedLobbyBannerId": 5000,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 715,
-      "StartDate": "2025-08-13T11:00:00",
-      "EndDate": "2025-08-20T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/715/952/",
-      "FileName": [
-        "Lobby_Banner_20240417_01_240952007.png"
-      ],
-      "LinkedLobbyBannerId": 821,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 716,
-      "StartDate": "2025-08-13T11:00:00",
-      "EndDate": "2025-08-20T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/716/953/",
-      "FileName": [
-        "Lobby_Banner_20240417_02_307582172.png"
-      ],
-      "LinkedLobbyBannerId": 822,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 717,
-      "StartDate": "2025-08-13T11:00:00",
-      "EndDate": "2025-08-20T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/717/954/",
-      "FileName": [
-        "Lobby_Banner_20250813_01_284786769.png"
-      ],
-      "LinkedLobbyBannerId": 823,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 718,
-      "StartDate": "2025-08-13T11:00:00",
-      "EndDate": "2025-08-20T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/718/955/",
-      "FileName": [
-        "Lobby_Banner_20250813_02_514859245.png"
-      ],
-      "LinkedLobbyBannerId": 824,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    }
-  ],
-  "ServerStatus": 1,
+  "Banners": [],
+  "ServerStatus": 7,
   "LatestClientVersion": "1.59.359309",
   "LatestAndroidClientVersion": "1.59.359309",
   "LatestIosClientVersion": "1.59.359309",
