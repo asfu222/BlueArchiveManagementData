@@ -15,6 +15,14 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/931/3390/index558673584.html",
       "Title": "総力戦＆大決戦スケジュール",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 934,
+      "StartDate": "2025-09-02T15:00:00",
+      "EndDate": "2025-09-10T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/934/3393/index90890251.html",
+      "Title": "メンテナンス",
+      "DisplayOrder": 0
     }
   ],
   "Events": [
@@ -32,6 +40,14 @@
       "EndDate": "2025-09-17T10:59:00",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/932/3391/index231347894.html",
       "Title": "ピックアップ募集",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 933,
+      "StartDate": "2025-09-02T15:00:00",
+      "EndDate": "2025-09-17T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/933/3392/index89496717.html",
+      "Title": "イベント紹介",
       "DisplayOrder": 0
     }
   ],
