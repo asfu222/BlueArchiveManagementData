@@ -93,18 +93,6 @@
       "LinkedLobbyBannerId": 849,
       "BannerType": 0,
       "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 725,
-      "StartDate": "2025-08-27T11:00:00",
-      "EndDate": "2025-09-03T03:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/725/962/",
-      "FileName": [
-        "Raid_Banner_12_jp(屋外)_793651770.png"
-      ],
-      "LinkedLobbyBannerId": 0,
-      "BannerType": 4,
-      "BannerDisplayType": 0
     }
   ],
   "ServerStatus": 1,
