@@ -49,20 +49,7 @@
     "EndDate": "2025-09-03T17:00:00",
     "Text": "定期メンテナンス中"
   },
-  "Banners": [
-    {
-      "BannerId": 724,
-      "StartDate": "2025-08-20T11:38:03",
-      "EndDate": "2025-09-10T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/724/961/",
-      "FileName": [
-        "Event_Banner_849_Jp_291110059.png"
-      ],
-      "LinkedLobbyBannerId": 849,
-      "BannerType": 0,
-      "BannerDisplayType": 0
-    }
-  ],
+  "Banners": [],
   "ServerStatus": 5,
   "LatestClientVersion": "1.60.365038",
   "LatestAndroidClientVersion": "1.60.365038",
@@ -114,24 +101,6 @@
       "GachaProbabilityDisplayId": 464,
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/464/index.html",
       "LinkedLobbyBannerId": 6000,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 473,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/473/index.html",
-      "LinkedLobbyBannerId": 830,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 474,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/474/index.html",
-      "LinkedLobbyBannerId": 831,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 475,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/475/index.html",
-      "LinkedLobbyBannerId": 832,
       "GachaDisplayTag": -1
     }
   ],
