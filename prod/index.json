@@ -7,34 +7,9 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/930/3389/index859072554.html",
       "Title": "誕生日カレンダー",
       "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 931,
-      "StartDate": "2025-09-01T15:00:00",
-      "EndDate": "2025-09-17T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/931/3390/index558673584.html",
-      "Title": "総力戦＆大決戦スケジュール",
-      "DisplayOrder": 0
     }
   ],
-  "Events": [
-    {
-      "NoticeId": 932,
-      "StartDate": "2025-09-02T14:00:00",
-      "EndDate": "2025-09-17T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/932/3391/index231347894.html",
-      "Title": "ピックアップ募集",
-      "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 933,
-      "StartDate": "2025-09-02T15:00:00",
-      "EndDate": "2025-09-17T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/933/3392/index89496717.html",
-      "Title": "イベント紹介",
-      "DisplayOrder": 0
-    }
-  ],
+  "Events": [],
   "Issues": [],
   "Maintenance": {
     "StartDate": "2025-09-03T11:00:00",
@@ -42,66 +17,6 @@
     "Text": "定期メンテナンス中"
   },
   "Banners": [
-    {
-      "BannerId": 726,
-      "StartDate": "2025-09-03T11:14:17",
-      "EndDate": "2025-09-17T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/726/964/",
-      "FileName": [
-        "Lobby_Banner_20250903_01_449850466.png"
-      ],
-      "LinkedLobbyBannerId": 834,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 727,
-      "StartDate": "2025-09-03T11:17:43",
-      "EndDate": "2025-09-17T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/727/965/",
-      "FileName": [
-        "Lobby_Banner_20250903_02_904068964.png"
-      ],
-      "LinkedLobbyBannerId": 835,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 728,
-      "StartDate": "2025-09-03T11:18:13",
-      "EndDate": "2025-09-17T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/728/966/",
-      "FileName": [
-        "Lobby_Banner_20250903_03_200127288.png"
-      ],
-      "LinkedLobbyBannerId": 836,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 729,
-      "StartDate": "2025-09-03T11:18:56",
-      "EndDate": "2025-09-17T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/729/967/",
-      "FileName": [
-        "lobby_banner_2024060502_600220263.png"
-      ],
-      "LinkedLobbyBannerId": 837,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 730,
-      "StartDate": "2025-09-03T11:20:44",
-      "EndDate": "2025-09-17T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/730/968/",
-      "FileName": [
-        "Lobby_Banner_20230717_02_242011908.png"
-      ],
-      "LinkedLobbyBannerId": 838,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
     {
       "BannerId": 731,
       "StartDate": "2025-09-03T11:21:49",
@@ -112,6 +27,42 @@
       ],
       "LinkedLobbyBannerId": 10838,
       "BannerType": 0,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 735,
+      "StartDate": "2025-09-17T11:00:00",
+      "EndDate": "2025-09-24T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/735/973/",
+      "FileName": [
+        "Lobby_Banner_20221012_02_146974974.png"
+      ],
+      "LinkedLobbyBannerId": 840,
+      "BannerType": 1,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 736,
+      "StartDate": "2025-09-17T11:00:00",
+      "EndDate": "2025-09-24T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/736/974/",
+      "FileName": [
+        "Lobby_Banner_20221012_03_895344021.png"
+      ],
+      "LinkedLobbyBannerId": 841,
+      "BannerType": 1,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 737,
+      "StartDate": "2025-09-17T11:00:00",
+      "EndDate": "2025-09-22T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/737/975/",
+      "FileName": [
+        "Lobby_Banner_20231220_01_147699458.png"
+      ],
+      "LinkedLobbyBannerId": 842,
+      "BannerType": 1,
       "BannerDisplayType": 0
     }
   ],
