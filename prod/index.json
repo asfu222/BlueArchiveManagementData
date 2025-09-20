@@ -279,6 +279,21 @@
       "GotoUrl": "https://app.adjust.com/1rsl9e84?redirect=https%3A%2F%2Fwww.youtube.com%2Flive%2FliDeHO9e7_U",
       "DisplayOrder": 0,
       "PopupOKText": "見に行く"
+    },
+    {
+      "GuidePopupId": 35,
+      "GuidePopupType": 1,
+      "PopupType": 1,
+      "StartDate": "2025-09-20T15:40:00",
+      "EndDate": "2025-09-20T17:00:00",
+      "FileName": "Live2509.png",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/35/66/",
+      "Message": "　　　ブルアカらいぶ！みに♪ 　　　放送中！",
+      "SurveyId": 0,
+      "NotifyUrl": null,
+      "GotoUrl": "https://app.adjust.com/1s81j8ey?redirect=https%3A%2F%2Fyoutube.com%2Flive%2FPl7VGVnI2VU",
+      "DisplayOrder": 0,
+      "PopupOKText": "見に行く"
     }
   ],
   "DownloadLimitTime": 0.0,
