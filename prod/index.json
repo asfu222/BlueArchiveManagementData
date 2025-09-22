@@ -61,18 +61,6 @@
       "LinkedLobbyBannerId": 841,
       "BannerType": 1,
       "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 737,
-      "StartDate": "2025-09-17T11:00:00",
-      "EndDate": "2025-09-22T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/737/975/",
-      "FileName": [
-        "Lobby_Banner_20231220_01_147699458.png"
-      ],
-      "LinkedLobbyBannerId": 842,
-      "BannerType": 1,
-      "BannerDisplayType": 0
     }
   ],
   "ServerStatus": 1,
