@@ -12,7 +12,7 @@
       "NoticeId": 940,
       "StartDate": "2025-09-23T15:00:00",
       "EndDate": "2025-10-01T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/940/3401/index873139691.html",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/940/3403/index782242667.html",
       "Title": "メンテナンス",
       "DisplayOrder": 0
     }
@@ -30,7 +30,7 @@
       "NoticeId": 939,
       "StartDate": "2025-09-23T15:00:00",
       "EndDate": "2025-10-15T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/939/3399/index214924441.html",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/939/3406/index312157177.html",
       "Title": "イベント紹介",
       "DisplayOrder": 0
     }
@@ -91,7 +91,7 @@
       "BannerDisplayType": 0
     }
   ],
-  "ServerStatus": 5,
+  "ServerStatus": 1,
   "LatestClientVersion": "1.61.372915",
   "LatestAndroidClientVersion": "1.61.372915",
   "LatestIosClientVersion": "1.61.372915",
