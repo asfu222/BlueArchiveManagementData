@@ -19,14 +19,6 @@
   ],
   "Events": [
     {
-      "NoticeId": 936,
-      "StartDate": "2025-09-17T14:00:00",
-      "EndDate": "2025-09-24T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/936/3396/index946376198.html",
-      "Title": "ピックアップ募集",
-      "DisplayOrder": 0
-    },
-    {
       "NoticeId": 938,
       "StartDate": "2025-09-23T14:00:00",
       "EndDate": "2025-10-08T10:59:00",
@@ -49,57 +41,8 @@
     "EndDate": "2025-09-24T19:00:00",
     "Text": "定期メンテナンス中"
   },
-  "Banners": [
-    {
-      "BannerId": 731,
-      "StartDate": "2025-09-03T11:21:49",
-      "EndDate": "2025-09-24T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/731/969/",
-      "FileName": [
-        "Event_Banner_838_Jp_706274033.png"
-      ],
-      "LinkedLobbyBannerId": 10838,
-      "BannerType": 0,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 735,
-      "StartDate": "2025-09-17T11:00:00",
-      "EndDate": "2025-09-24T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/735/973/",
-      "FileName": [
-        "Lobby_Banner_20221012_02_146974974.png"
-      ],
-      "LinkedLobbyBannerId": 840,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 736,
-      "StartDate": "2025-09-17T11:00:00",
-      "EndDate": "2025-09-24T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/736/974/",
-      "FileName": [
-        "Lobby_Banner_20221012_03_895344021.png"
-      ],
-      "LinkedLobbyBannerId": 841,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 738,
-      "StartDate": "2025-09-22T14:30:06",
-      "EndDate": "2025-09-24T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/738/976/",
-      "FileName": [
-        "Lobby_Banner_20231220_01_845702748.png"
-      ],
-      "LinkedLobbyBannerId": 842,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    }
-  ],
-  "ServerStatus": 1,
+  "Banners": [],
+  "ServerStatus": 7,
   "LatestClientVersion": "1.60.365038",
   "LatestAndroidClientVersion": "1.60.365038",
   "LatestIosClientVersion": "1.60.365038",
