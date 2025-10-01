@@ -1,14 +1,5 @@
 {
-  "Notices": [
-    {
-      "NoticeId": 940,
-      "StartDate": "2025-09-23T15:00:00",
-      "EndDate": "2025-10-01T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/940/3403/index782242667.html",
-      "Title": "メンテナンス",
-      "DisplayOrder": 0
-    }
-  ],
+  "Notices": [],
   "Events": [
     {
       "NoticeId": 938,
@@ -80,6 +71,18 @@
       ],
       "LinkedLobbyBannerId": 850,
       "BannerType": 0,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 744,
+      "StartDate": "2025-10-01T11:00:00",
+      "EndDate": "2025-10-08T03:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/744/983/",
+      "FileName": [
+        "Raid_Banner_20_Jp_796251564.png"
+      ],
+      "LinkedLobbyBannerId": 0,
+      "BannerType": 4,
       "BannerDisplayType": 0
     }
   ],
