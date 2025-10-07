@@ -1,6 +1,40 @@
 {
-  "Notices": [],
-  "Events": [],
+  "Notices": [
+    {
+      "NoticeId": 941,
+      "StartDate": "2025-10-01T14:00:00",
+      "EndDate": "2025-10-31T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/941/3409/index365051066.html",
+      "Title": "生徒誕生日カレンダー",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 942,
+      "StartDate": "2025-10-01T14:00:00",
+      "EndDate": "2025-10-15T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/942/3410/index680901017.html",
+      "Title": "総力戦＆大決戦スケジュール",
+      "DisplayOrder": 0
+    }
+  ],
+  "Events": [
+    {
+      "NoticeId": 943,
+      "StartDate": "2025-10-07T14:00:00",
+      "EndDate": "2025-10-15T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/943/3411/index133636786.html",
+      "Title": "ピックアップ募集",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 939,
+      "StartDate": "2025-09-23T15:00:00",
+      "EndDate": "2025-10-15T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/939/3406/index312157177.html",
+      "Title": "イベント紹介",
+      "DisplayOrder": 0
+    }
+  ],
   "Issues": [],
   "Maintenance": {
     "StartDate": "2025-09-24T11:00:00",
