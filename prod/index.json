@@ -105,18 +105,6 @@
       "LinkedLobbyBannerId": 857,
       "BannerType": 1,
       "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 748,
-      "StartDate": "2025-10-08T11:00:00",
-      "EndDate": "2025-10-15T03:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/748/988/",
-      "FileName": [
-        "TimeAttack_Banner_Jp_18591318.png"
-      ],
-      "LinkedLobbyBannerId": 0,
-      "BannerType": 26,
-      "BannerDisplayType": 0
     }
   ],
   "ServerStatus": 1,
