@@ -7,41 +7,9 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/941/3409/index365051066.html",
       "Title": "生徒誕生日カレンダー",
       "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 942,
-      "StartDate": "2025-10-01T14:00:00",
-      "EndDate": "2025-10-15T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/942/3410/index680901017.html",
-      "Title": "総力戦＆大決戦スケジュール",
-      "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 944,
-      "StartDate": "2025-10-08T11:05:00",
-      "EndDate": "2025-10-15T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/944/3414/index916597170.html",
-      "Title": "メインストーリー公開",
-      "DisplayOrder": 0
     }
   ],
   "Events": [
-    {
-      "NoticeId": 943,
-      "StartDate": "2025-10-07T14:00:00",
-      "EndDate": "2025-10-15T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/943/3411/index133636786.html",
-      "Title": "ピックアップ募集",
-      "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 939,
-      "StartDate": "2025-09-23T15:00:00",
-      "EndDate": "2025-10-15T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/939/3406/index312157177.html",
-      "Title": "イベント紹介",
-      "DisplayOrder": 0
-    },
     {
       "NoticeId": 945,
       "StartDate": "2025-10-14T14:00:00",
@@ -71,39 +39,63 @@
       "BannerDisplayType": 0
     },
     {
-      "BannerId": 745,
-      "StartDate": "2025-10-08T11:00:00",
-      "EndDate": "2025-10-15T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/745/984/",
+      "BannerId": 749,
+      "StartDate": "2025-10-15T11:00:00",
+      "EndDate": "2025-10-22T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/749/991/",
       "FileName": [
-        "Lobby_Banner_20251008_01_657058905.png"
+        "Lobby_Banner_20220907_01_892357119.png"
       ],
-      "LinkedLobbyBannerId": 855,
+      "LinkedLobbyBannerId": 859,
       "BannerType": 1,
       "BannerDisplayType": 0
     },
     {
-      "BannerId": 746,
-      "StartDate": "2025-10-08T11:00:00",
-      "EndDate": "2025-10-15T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/746/986/",
+      "BannerId": 750,
+      "StartDate": "2025-10-15T11:00:00",
+      "EndDate": "2025-10-22T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/750/992/",
       "FileName": [
-        "Lobby_Banner_20231018_01_480902073.png"
+        "Lobby_Banner_20220907_02_50896133.png"
       ],
-      "LinkedLobbyBannerId": 856,
+      "LinkedLobbyBannerId": 860,
       "BannerType": 1,
       "BannerDisplayType": 0
     },
     {
-      "BannerId": 747,
-      "StartDate": "2025-10-08T11:00:00",
-      "EndDate": "2025-10-15T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/747/987/",
+      "BannerId": 751,
+      "StartDate": "2025-10-15T11:00:00",
+      "EndDate": "2025-10-22T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/751/995/",
       "FileName": [
-        "Lobby_Banner_20230614_01_732938833.png"
+        "Lobby_Banner_20240617_01_409841648.png"
       ],
-      "LinkedLobbyBannerId": 857,
+      "LinkedLobbyBannerId": 861,
       "BannerType": 1,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 752,
+      "StartDate": "2025-10-15T11:00:00",
+      "EndDate": "2025-10-22T03:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/752/994/",
+      "FileName": [
+        "EliminateRaid_Banner_7_jp_48312385.png"
+      ],
+      "LinkedLobbyBannerId": 0,
+      "BannerType": 27,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 753,
+      "StartDate": "2025-10-15T11:00:00",
+      "EndDate": "2025-10-29T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/753/996/",
+      "FileName": [
+        "Event_Banner_Mini_60000_Jp_962944057.png"
+      ],
+      "LinkedLobbyBannerId": 60015,
+      "BannerType": 22,
       "BannerDisplayType": 0
     }
   ],
