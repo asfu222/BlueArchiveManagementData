@@ -7,6 +7,14 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/941/3409/index365051066.html",
       "Title": "生徒誕生日カレンダー",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 949,
+      "StartDate": "2025-10-21T15:00:00",
+      "EndDate": "2025-10-29T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/949/3419/index73219343.html",
+      "Title": "メンテナンス",
+      "DisplayOrder": 0
     }
   ],
   "Events": [
@@ -16,6 +24,22 @@
       "EndDate": "2025-10-22T10:59:00",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/945/3415/index939098378.html",
       "Title": "ピックアップ募集",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 947,
+      "StartDate": "2025-10-21T14:00:00",
+      "EndDate": "2025-11-05T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/947/3417/index3022751.html",
+      "Title": "ピックアップ募集",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 948,
+      "StartDate": "2025-10-21T15:00:00",
+      "EndDate": "2025-11-05T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/948/3418/index868707470.html",
+      "Title": "イベント紹介",
       "DisplayOrder": 0
     }
   ],
