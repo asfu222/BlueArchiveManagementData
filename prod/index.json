@@ -7,14 +7,6 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/941/3409/index365051066.html",
       "Title": "生徒誕生日カレンダー",
       "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 949,
-      "StartDate": "2025-10-21T15:00:00",
-      "EndDate": "2025-10-29T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/949/3420/index342016891.html",
-      "Title": "メンテナンス",
-      "DisplayOrder": 0
     }
   ],
   "Events": [
@@ -79,15 +71,15 @@
       "BannerDisplayType": 0
     },
     {
-      "BannerId": 757,
-      "StartDate": "2025-10-22T11:19:26",
-      "EndDate": "2025-10-29T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/757/1000/",
+      "BannerId": 758,
+      "StartDate": "2025-10-29T11:00:00",
+      "EndDate": "2025-11-05T03:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/758/1001/",
       "FileName": [
-        "Event_Banner_Mini_60000_Jp_214043579.png"
+        "Raid_Banner_21_jp_633508574.png"
       ],
-      "LinkedLobbyBannerId": 60015,
-      "BannerType": 22,
+      "LinkedLobbyBannerId": 0,
+      "BannerType": 4,
       "BannerDisplayType": 0
     }
   ],
