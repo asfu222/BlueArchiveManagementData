@@ -1,5 +1,22 @@
 {
-  "Notices": [],
+  "Notices": [
+    {
+      "NoticeId": 953,
+      "StartDate": "2025-11-01T15:00:00",
+      "EndDate": "2025-11-30T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/953/3425/index373725863.html",
+      "Title": "誕生日カレンダー",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 954,
+      "StartDate": "2025-11-01T15:00:00",
+      "EndDate": "2025-11-19T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/954/3426/index690118964.html",
+      "Title": "総力戦＆大決戦スケジュール",
+      "DisplayOrder": 0
+    }
+  ],
   "Events": [
     {
       "NoticeId": 947,
