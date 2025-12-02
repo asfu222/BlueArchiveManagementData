@@ -95,18 +95,6 @@
       "BannerDisplayType": 0
     },
     {
-      "BannerId": 776,
-      "StartDate": "2025-11-26T11:00:00",
-      "EndDate": "2025-12-03T03:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/776/1020/",
-      "FileName": [
-        "Raid_Banner_19_jp_335299260.png"
-      ],
-      "LinkedLobbyBannerId": 0,
-      "BannerType": 4,
-      "BannerDisplayType": 0
-    },
-    {
       "BannerId": 777,
       "StartDate": "2025-11-19T11:19:14",
       "EndDate": "2025-12-03T10:59:59",
