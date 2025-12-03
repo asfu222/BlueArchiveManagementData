@@ -1,37 +1,29 @@
 {
   "Notices": [
     {
-      "NoticeId": 962,
-      "StartDate": "2025-12-02T15:00:00",
+      "NoticeId": 964,
+      "StartDate": "2025-12-02T14:00:00",
       "EndDate": "2025-12-10T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/962/3442/index469924235.html",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/964/3447/index299225141.html",
       "Title": "メンテナンス",
       "DisplayOrder": 0
     }
   ],
   "Events": [
     {
-      "NoticeId": 960,
+      "NoticeId": 963,
       "StartDate": "2025-12-02T14:00:00",
       "EndDate": "2025-12-17T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/960/3436/index937776030.html",
-      "Title": "ピックアップ募集",
-      "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 962,
-      "StartDate": "2025-12-02T15:00:00",
-      "EndDate": "2025-12-10T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/962/3441/index279750085.html",
-      "Title": "メンテナンス",
-      "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 961,
-      "StartDate": "2025-12-02T15:00:00",
-      "EndDate": "2025-12-17T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/961/3440/index761207954.html",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/963/3445/index844416508.html",
       "Title": "イベント紹介",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 965,
+      "StartDate": "2025-12-02T14:00:00",
+      "EndDate": "2025-12-17T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/965/3448/index306749335.html",
+      "Title": "ピックアップ募集",
       "DisplayOrder": 0
     }
   ],
@@ -139,7 +131,7 @@
       "BannerDisplayType": 0
     }
   ],
-  "ServerStatus": 5,
+  "ServerStatus": 1,
   "LatestClientVersion": "1.63.384227",
   "LatestAndroidClientVersion": "1.63.384227",
   "LatestIosClientVersion": "1.63.384227",
