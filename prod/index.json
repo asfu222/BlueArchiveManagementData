@@ -11,22 +11,6 @@
   ],
   "Events": [
     {
-      "NoticeId": 963,
-      "StartDate": "2025-12-02T14:00:00",
-      "EndDate": "2025-12-17T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/963/3445/index844416508.html",
-      "Title": "イベント紹介",
-      "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 965,
-      "StartDate": "2025-12-02T14:00:00",
-      "EndDate": "2025-12-17T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/965/3448/index306749335.html",
-      "Title": "ピックアップ募集",
-      "DisplayOrder": 0
-    },
-    {
       "NoticeId": 967,
       "StartDate": "2025-12-16T14:00:00",
       "EndDate": "2025-12-23T10:59:00",
@@ -52,54 +36,6 @@
   },
   "Banners": [
     {
-      "BannerId": 778,
-      "StartDate": "2025-12-03T11:05:57",
-      "EndDate": "2025-12-17T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/778/1024/",
-      "FileName": [
-        "Lobby_Banner_20251203_01_465660952.png"
-      ],
-      "LinkedLobbyBannerId": 894,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 779,
-      "StartDate": "2025-12-03T11:07:29",
-      "EndDate": "2025-12-17T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/779/1026/",
-      "FileName": [
-        "Lobby_Banner_20251203_02_859115871.png"
-      ],
-      "LinkedLobbyBannerId": 895,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 780,
-      "StartDate": "2025-12-03T11:08:59",
-      "EndDate": "2025-12-17T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/780/1027/",
-      "FileName": [
-        "Lobby_Banner_20240508_02_839434513.png"
-      ],
-      "LinkedLobbyBannerId": 896,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 781,
-      "StartDate": "2025-12-03T11:09:46",
-      "EndDate": "2025-12-17T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/781/1028/",
-      "FileName": [
-        "Lobby_Banner_20230510_02_101358743.png"
-      ],
-      "LinkedLobbyBannerId": 897,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
       "BannerId": 782,
       "StartDate": "2025-12-03T11:10:45",
       "EndDate": "2025-12-24T10:59:59",
@@ -121,6 +57,66 @@
       ],
       "LinkedLobbyBannerId": 3100,
       "BannerType": 1,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 787,
+      "StartDate": "2025-12-17T11:00:00",
+      "EndDate": "2025-12-24T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/787/1035/",
+      "FileName": [
+        "Lobby_Banner_20240807_01_601946443.png"
+      ],
+      "LinkedLobbyBannerId": 899,
+      "BannerType": 1,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 788,
+      "StartDate": "2025-12-17T11:00:00",
+      "EndDate": "2025-12-24T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/788/1036/",
+      "FileName": [
+        "Lobby_Banner_20240814_01_99401147.png"
+      ],
+      "LinkedLobbyBannerId": 900,
+      "BannerType": 1,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 789,
+      "StartDate": "2025-12-17T11:00:00",
+      "EndDate": "2025-12-24T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/789/1037/",
+      "FileName": [
+        "Lobby_Banner_20240814_02_180768729.png"
+      ],
+      "LinkedLobbyBannerId": 901,
+      "BannerType": 1,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 790,
+      "StartDate": "2025-12-17T11:00:00",
+      "EndDate": "2025-12-24T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/790/1038/",
+      "FileName": [
+        "Lobby_Banner_20251217_01_883377172.png"
+      ],
+      "LinkedLobbyBannerId": 902,
+      "BannerType": 1,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 791,
+      "StartDate": "2025-12-17T11:00:00",
+      "EndDate": "2025-12-31T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/791/1039/",
+      "FileName": [
+        "Event_Banner_Mini_60000_Jp_967443835.png"
+      ],
+      "LinkedLobbyBannerId": 60016,
+      "BannerType": 22,
       "BannerDisplayType": 0
     }
   ],
