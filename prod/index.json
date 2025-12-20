@@ -1,14 +1,5 @@
 {
-  "Notices": [
-    {
-      "NoticeId": 969,
-      "StartDate": "2025-12-16T14:00:00",
-      "EndDate": "2025-12-20T20:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/969/3459/index494176506.html",
-      "Title": "ブルアカらいぶ！ 配信情報！",
-      "DisplayOrder": 0
-    }
-  ],
+  "Notices": [],
   "Events": [
     {
       "NoticeId": 967,
