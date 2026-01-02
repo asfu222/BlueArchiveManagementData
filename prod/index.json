@@ -1,14 +1,5 @@
 {
-  "Notices": [
-    {
-      "NoticeId": 971,
-      "StartDate": "2025-12-23T15:00:00",
-      "EndDate": "2026-01-02T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/971/3470/index559343141.html",
-      "Title": "メンテナンス",
-      "DisplayOrder": 0
-    }
-  ],
+  "Notices": [],
   "Events": [
     {
       "NoticeId": 970,
