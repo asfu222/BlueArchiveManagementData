@@ -27,27 +27,19 @@
   ],
   "Events": [
     {
-      "NoticeId": 970,
-      "StartDate": "2025-12-23T14:00:00",
-      "EndDate": "2026-01-07T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/970/3460/index673447125.html",
-      "Title": "ピックアップ募集",
-      "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 972,
-      "StartDate": "2025-12-23T15:00:00",
-      "EndDate": "2026-01-07T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/972/3464/index386535691.html",
-      "Title": "イベント紹介",
-      "DisplayOrder": 0
-    },
-    {
       "NoticeId": 975,
       "StartDate": "2026-01-06T15:00:00",
       "EndDate": "2026-01-19T10:59:00",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/975/3483/index982933810.html",
       "Title": "イベント紹介",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 974,
+      "StartDate": "2026-01-06T14:00:00",
+      "EndDate": "2026-01-19T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/974/3484/index950947349.html",
+      "Title": "ピックアップ募集",
       "DisplayOrder": 0
     }
   ],
