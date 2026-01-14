@@ -7,22 +7,6 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/977/3476/index779898026.html",
       "Title": "生徒誕生日カレンダー",
       "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 978,
-      "StartDate": "2025-12-31T15:00:00",
-      "EndDate": "2026-01-14T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/978/3477/index814414177.html",
-      "Title": "総力戦＆大決戦スケジュール",
-      "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 976,
-      "StartDate": "2026-01-06T15:00:00",
-      "EndDate": "2026-01-14T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/976/3487/index988086125.html",
-      "Title": "メンテナンス",
-      "DisplayOrder": 0
     }
   ],
   "Events": [
@@ -123,15 +107,15 @@
       "BannerDisplayType": 0
     },
     {
-      "BannerId": 812,
-      "StartDate": "2026-01-07T11:31:33",
-      "EndDate": "2026-01-14T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/812/1062/",
+      "BannerId": 811,
+      "StartDate": "2026-01-14T11:00:00",
+      "EndDate": "2026-01-20T03:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/811/1061/",
       "FileName": [
-        "Event_Banner_853_Jp_418832086.png"
+        "EliminateRaid_Banner_7_jp_365735336.png"
       ],
-      "LinkedLobbyBannerId": 853,
-      "BannerType": 0,
+      "LinkedLobbyBannerId": 0,
+      "BannerType": 27,
       "BannerDisplayType": 0
     }
   ],
