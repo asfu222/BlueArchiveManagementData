@@ -15,13 +15,46 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/979/3488/index759717189.html",
       "Title": "メインストーリー更新のお知らせ",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 983,
+      "StartDate": "2026-01-19T15:00:00",
+      "EndDate": "2026-01-28T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/983/3495/index646774674.html",
+      "Title": "メンテナンス",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 984,
+      "StartDate": "2026-01-19T15:30:00",
+      "EndDate": "2026-01-29T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/984/3498/index379550767.html",
+      "Title": "Yostar Gamesチャージセンターのお知らせ",
+      "DisplayOrder": 0
     }
   ],
-  "Events": [],
+  "Events": [
+    {
+      "NoticeId": 980,
+      "StartDate": "2026-01-19T15:00:00",
+      "EndDate": "2026-01-28T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/980/3489/index975380716.html",
+      "Title": "ピックアップ募集",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 981,
+      "StartDate": "2026-01-19T15:00:00",
+      "EndDate": "2026-01-29T10:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/981/3493/index269090269.html",
+      "Title": "イベント紹介",
+      "DisplayOrder": 0
+    }
+  ],
   "Issues": [],
   "Maintenance": {
-    "StartDate": "2026-01-07T11:00:00",
-    "EndDate": "2026-01-07T17:00:00",
+    "StartDate": "2026-01-20T11:00:00",
+    "EndDate": "2026-01-20T19:00:00",
     "Text": "定期メンテナンス中"
   },
   "Banners": [
