@@ -59,66 +59,6 @@
   },
   "Banners": [
     {
-      "BannerId": 804,
-      "StartDate": "2026-01-07T11:05:33",
-      "EndDate": "2026-01-20T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/804/1053/",
-      "FileName": [
-        "Lobby_Banner_20260107_01_280635441.png"
-      ],
-      "LinkedLobbyBannerId": 914,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 805,
-      "StartDate": "2026-01-07T11:07:52",
-      "EndDate": "2026-01-20T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/805/1054/",
-      "FileName": [
-        "Lobby_Banner_20260107_02_111429487.png"
-      ],
-      "LinkedLobbyBannerId": 915,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 806,
-      "StartDate": "2026-01-07T11:11:20",
-      "EndDate": "2026-01-20T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/806/1055/",
-      "FileName": [
-        "Lobby_Banner_20230915_02_576212893.png"
-      ],
-      "LinkedLobbyBannerId": 916,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 807,
-      "StartDate": "2026-01-07T11:13:32",
-      "EndDate": "2026-01-20T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/807/1056/",
-      "FileName": [
-        "Lobby_Banner_20230915_03_506870263.png"
-      ],
-      "LinkedLobbyBannerId": 917,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
-      "BannerId": 808,
-      "StartDate": "2026-01-07T11:18:15",
-      "EndDate": "2026-01-20T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/808/1057/",
-      "FileName": [
-        "Lobby_Banner_Archive_817709297.png"
-      ],
-      "LinkedLobbyBannerId": 3100,
-      "BannerType": 1,
-      "BannerDisplayType": 0
-    },
-    {
       "BannerId": 809,
       "StartDate": "2026-01-07T11:18:56",
       "EndDate": "2026-01-25T10:59:59",
@@ -131,7 +71,7 @@
       "BannerDisplayType": 0
     }
   ],
-  "ServerStatus": 1,
+  "ServerStatus": 7,
   "LatestClientVersion": "1.64.391335",
   "LatestAndroidClientVersion": "1.64.391335",
   "LatestIosClientVersion": "1.64.391335",
