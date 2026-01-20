@@ -69,12 +69,49 @@
       "LinkedLobbyBannerId": 10840,
       "BannerType": 0,
       "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 813,
+      "StartDate": "2026-01-20T11:09:11",
+      "EndDate": "2026-01-29T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/813/1064/",
+      "FileName": [
+        "Lobby_Banner_20260120_01_493416845.png"
+      ],
+      "LinkedLobbyBannerId": 921,
+      "BannerType": 1,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 814,
+      "StartDate": "2026-01-20T11:14:05",
+      "EndDate": "2026-01-29T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/814/1065/",
+      "FileName": [
+        "Lobby_Banner_20260120_02_367869353.png"
+      ],
+      "LinkedLobbyBannerId": 922,
+      "BannerType": 1,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 819,
+      "StartDate": "2026-01-20T11:59:57",
+      "EndDate": "2026-02-18T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/819/1071/",
+      "FileName": [
+        "Event_Banner_854_1_Jp_112516477.png"
+      ],
+      "LinkedLobbyBannerId": 854,
+      "BannerType": 0,
+      "BannerDisplayType": 0
     }
   ],
-  "ServerStatus": 7,
-  "LatestClientVersion": "1.64.391335",
-  "LatestAndroidClientVersion": "1.64.391335",
-  "LatestIosClientVersion": "1.64.391335",
+  "ServerStatus": 5,
+  "LatestClientVersion": "1.65.398397",
+  "LatestAndroidClientVersion": "1.65.398397",
+  "LatestIosClientVersion": "1.65.398397",
+  "LatestPCClientVersion": "1.65.398397",
   "GachaProbabilityDisplay": [
     {
       "GachaProbabilityDisplayId": 62,
