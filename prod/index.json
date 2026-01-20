@@ -51,7 +51,16 @@
       "DisplayOrder": 0
     }
   ],
-  "Issues": [],
+  "Issues": [
+    {
+      "NoticeId": 985,
+      "StartDate": "2026-01-20T20:13:26",
+      "EndDate": "2026-02-12T12:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/985/3505/index379949802.html",
+      "Title": "[1月20日(火曜日)]既知の不具合",
+      "DisplayOrder": 0
+    }
+  ],
   "Maintenance": {
     "StartDate": "2026-01-20T11:00:00",
     "EndDate": "2026-01-20T19:00:00",
