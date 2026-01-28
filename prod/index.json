@@ -9,14 +9,6 @@
       "DisplayOrder": 0
     },
     {
-      "NoticeId": 983,
-      "StartDate": "2026-01-19T15:00:00",
-      "EndDate": "2026-01-28T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/983/3499/index887315037.html",
-      "Title": "メンテナンス",
-      "DisplayOrder": 0
-    },
-    {
       "NoticeId": 984,
       "StartDate": "2026-01-19T15:30:00",
       "EndDate": "2026-01-29T10:59:00",
@@ -26,14 +18,6 @@
     }
   ],
   "Events": [
-    {
-      "NoticeId": 980,
-      "StartDate": "2026-01-19T15:00:00",
-      "EndDate": "2026-01-28T10:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/980/3489/index975380716.html",
-      "Title": "ピックアップ募集",
-      "DisplayOrder": 0
-    },
     {
       "NoticeId": 981,
       "StartDate": "2026-01-19T15:00:00",
