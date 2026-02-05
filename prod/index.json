@@ -1,6 +1,15 @@
 {
   "Notices": [],
-  "Events": [],
+  "Events": [
+    {
+      "NoticeId": 989,
+      "StartDate": "2026-02-05T20:13:26",
+      "EndDate": "2026-02-12T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/989/3513/index881486066.html",
+      "Title": "ピックアップ募集",
+      "DisplayOrder": 0
+    }
+  ],
   "Issues": [
     {
       "NoticeId": 985,
