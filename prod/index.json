@@ -1,14 +1,5 @@
 {
-  "Notices": [
-    {
-      "NoticeId": 992,
-      "StartDate": "2026-02-11T15:00:00",
-      "EndDate": "2026-02-18T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/992/3520/index591669654.html",
-      "Title": "メンテナンス",
-      "DisplayOrder": 0
-    }
-  ],
+  "Notices": [],
   "Events": [
     {
       "NoticeId": 990,
@@ -16,14 +7,6 @@
       "EndDate": "2026-02-25T11:00:00",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/990/3517/index370516084.html",
       "Title": "ピックアップ募集",
-      "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 991,
-      "StartDate": "2026-02-11T14:00:00",
-      "EndDate": "2026-02-18T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/991/3515/index300037005.html",
-      "Title": "イベント紹介",
       "DisplayOrder": 0
     },
     {
@@ -76,6 +59,42 @@
       ],
       "LinkedLobbyBannerId": 854,
       "BannerType": 42,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 840,
+      "StartDate": "2026-02-18T11:00:00",
+      "EndDate": "2026-03-11T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/840/1097/",
+      "FileName": [
+        "Event_Banner_855_Jp_827164373.png"
+      ],
+      "LinkedLobbyBannerId": 855,
+      "BannerType": 0,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 841,
+      "StartDate": "2026-02-18T11:00:00",
+      "EndDate": "2026-02-25T03:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/841/1099/",
+      "FileName": [
+        "Raid_Banner_1_jp(屋外)_502022994.png"
+      ],
+      "LinkedLobbyBannerId": 0,
+      "BannerType": 4,
+      "BannerDisplayType": 0
+    },
+    {
+      "BannerId": 843,
+      "StartDate": "2026-02-18T11:00:00",
+      "EndDate": "2026-03-11T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/843/1101/",
+      "FileName": [
+        "Event_Banner_Seasonal_80000_Jp_980586154.png"
+      ],
+      "LinkedLobbyBannerId": 80001,
+      "BannerType": 37,
       "BannerDisplayType": 0
     }
   ],
