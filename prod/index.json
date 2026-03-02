@@ -1,5 +1,14 @@
 {
-  "Notices": [],
+  "Notices": [
+    {
+      "NoticeId": 999,
+      "StartDate": "2026-03-01T15:00:00",
+      "EndDate": "2026-03-31T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/999/3529/index296319446.html",
+      "Title": "誕生日カレンダー",
+      "DisplayOrder": 0
+    }
+  ],
   "Events": [
     {
       "NoticeId": 993,
