@@ -115,18 +115,6 @@
       "BannerDisplayType": 0
     },
     {
-      "BannerId": 860,
-      "StartDate": "2026-03-04T11:15:07",
-      "EndDate": "2026-03-11T03:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/860/1121/",
-      "FileName": [
-        "EliminateRaid_Banner_9_jp_697663708.png"
-      ],
-      "LinkedLobbyBannerId": 0,
-      "BannerType": 27,
-      "BannerDisplayType": 0
-    },
-    {
       "BannerId": 861,
       "StartDate": "2026-03-04T11:20:46",
       "EndDate": "2026-03-11T10:59:59",
