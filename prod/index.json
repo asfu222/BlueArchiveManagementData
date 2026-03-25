@@ -7,14 +7,6 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/999/3529/index296319446.html",
       "Title": "誕生日カレンダー",
       "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 1002,
-      "StartDate": "2026-03-17T15:00:00",
-      "EndDate": "2026-03-25T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1002/3538/index380332085.html",
-      "Title": "メンテナンス",
-      "DisplayOrder": 0
     }
   ],
   "Events": [
@@ -82,15 +74,15 @@
       "BannerEventTagPosition": 2
     },
     {
-      "BannerId": 867,
-      "StartDate": "2026-03-18T11:23:21",
-      "EndDate": "2026-03-25T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/867/1128/",
+      "BannerId": 866,
+      "StartDate": "2026-03-25T11:00:00",
+      "EndDate": "2026-04-01T03:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/866/1127/",
       "FileName": [
-        "Event_Banner_842_Jp_100581776.png"
+        "Raid_Banner_16_jp_74031282.png"
       ],
-      "LinkedLobbyBannerId": 10842,
-      "BannerType": 0,
+      "LinkedLobbyBannerId": 0,
+      "BannerType": 4,
       "BannerDisplayType": 0,
       "BannerEventTagPosition": 2
     }
