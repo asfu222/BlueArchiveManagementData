@@ -1,14 +1,5 @@
 {
-  "Notices": [
-    {
-      "NoticeId": 999,
-      "StartDate": "2026-03-01T15:00:00",
-      "EndDate": "2026-03-31T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/999/3529/index296319446.html",
-      "Title": "誕生日カレンダー",
-      "DisplayOrder": 0
-    }
-  ],
+  "Notices": [],
   "Events": [
     {
       "NoticeId": 1000,
@@ -16,14 +7,6 @@
       "EndDate": "2026-04-01T11:00:00",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/1000/3533/index906453508.html",
       "Title": "ピックアップ募集",
-      "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 1001,
-      "StartDate": "2026-03-17T15:00:00",
-      "EndDate": "2026-04-01T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1001/3536/index116379716.html",
-      "Title": "イベント紹介",
       "DisplayOrder": 0
     }
   ],
