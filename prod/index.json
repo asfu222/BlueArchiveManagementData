@@ -116,14 +116,14 @@
       "BannerId": 876,
       "StartDate": "2026-04-01T11:18:17",
       "EndDate": "2026-04-08T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/876/1139/",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/876/1140/",
       "FileName": [
-        "Event_Banner_856_Jp_29735257.png"
+        "Event_Banner_856_Jp_850166772.png"
       ],
       "LinkedLobbyBannerId": 856,
       "BannerType": 0,
       "BannerDisplayType": 0,
-      "BannerEventTagPosition": 2
+      "BannerEventTagPosition": 1
     }
   ],
   "ServerStatus": 5,
@@ -211,6 +211,7 @@
       "GachaDisplayTag": -1
     }
   ],
+  "MarketAppleId": null,
   "NotificationBeforeMaintenance": {
     "PopupType": 1,
     "StartDate": "2023-12-19T00:00:00+09:00",
@@ -236,6 +237,7 @@
       "Text": " "
     }
   ],
+  "RaidPeriodDisplay": null,
   "Survey": {
     "SurveyId": 199990730,
     "PopupType": 1,
@@ -243,7 +245,8 @@
     "EndDate": "2023-01-23T23:59:59",
     "FileName": "Lobby_Banner.png",
     "Url": "https://prod-notice.bluearchiveyostar.com/prod/SurveyGuidePopup/199990730/",
-    "Text": "ブルアカ2周年　特別アンケート"
+    "Text": "ブルアカ2周年　特別アンケート",
+    "NotifyUrl": null
   },
   "GuidePopup": [
     {
@@ -256,6 +259,7 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/44/75/",
       "Message": "「ブルアカ」PC版 リリース！",
       "SurveyId": 0,
+      "NotifyUrl": null,
       "GotoUrl": "https://bluearchive.jp/news/newsJump/627",
       "DisplayOrder": 1,
       "PopupOKText": "詳細確認"
@@ -270,6 +274,8 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/45/78/",
       "Message": "アンケートに協力して、報酬を受け取りましょう！",
       "SurveyId": 338603093,
+      "NotifyUrl": null,
+      "GotoUrl": null,
       "DisplayOrder": 1,
       "PopupOKText": ""
     }
