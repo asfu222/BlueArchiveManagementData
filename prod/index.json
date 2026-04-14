@@ -25,6 +25,14 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/1004/3546/index619105574.html",
       "Title": "イベント紹介",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1007,
+      "StartDate": "2026-04-14T14:00:00",
+      "EndDate": "2026-04-21T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1007/3553/index797231854.html",
+      "Title": "ピックアップ募集",
+      "DisplayOrder": 0
     }
   ],
   "Issues": [],
