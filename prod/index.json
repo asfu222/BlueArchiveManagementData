@@ -1,14 +1,5 @@
 {
-  "Notices": [
-    {
-      "NoticeId": 1006,
-      "StartDate": "2026-04-13T19:00:00",
-      "EndDate": "2026-04-19T19:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1006/3552/index621445174.html",
-      "Title": "ブルアカらいぶ！ 配信情報！",
-      "DisplayOrder": 0
-    }
-  ],
+  "Notices": [],
   "Events": [
     {
       "NoticeId": 1007,
