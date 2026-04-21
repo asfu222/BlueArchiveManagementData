@@ -4,7 +4,7 @@
       "NoticeId": 1010,
       "StartDate": "2026-04-20T15:00:00",
       "EndDate": "2026-04-29T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1010/3560/index347618115.html",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1010/3566/index42425020.html",
       "Title": "メンテナンス",
       "DisplayOrder": 0
     }
@@ -27,7 +27,16 @@
       "DisplayOrder": 0
     }
   ],
-  "Issues": [],
+  "Issues": [
+    {
+      "NoticeId": 1011,
+      "StartDate": "2026-04-21T19:00:00",
+      "EndDate": "2026-05-20T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1011/3564/index704261252.html",
+      "Title": "[4月21日(火曜日)]既知の不具合）",
+      "DisplayOrder": 0
+    }
+  ],
   "Maintenance": {
     "StartDate": "2026-04-21T11:00:00",
     "EndDate": "2026-04-21T19:00:00",
@@ -87,7 +96,7 @@
       "BannerEventTagPosition": 0
     }
   ],
-  "ServerStatus": 5,
+  "ServerStatus": 1,
   "LatestClientVersion": "1.68.420063",
   "LatestAndroidClientVersion": "1.68.420063",
   "LatestIosClientVersion": "1.68.420063",
