@@ -81,19 +81,6 @@
       "BannerType": 0,
       "BannerDisplayType": 0,
       "BannerEventTagPosition": 0
-    },
-    {
-      "BannerId": 886,
-      "StartDate": "2026-04-21T13:03:47",
-      "EndDate": "2026-04-22T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/886/1153/",
-      "FileName": [
-        "Event_Banner_843_Jp_new_161492239.png"
-      ],
-      "LinkedLobbyBannerId": 10843,
-      "BannerType": 0,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
     }
   ],
   "ServerStatus": 1,
