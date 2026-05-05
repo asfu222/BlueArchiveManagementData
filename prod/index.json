@@ -88,19 +88,6 @@
       "BannerType": 0,
       "BannerDisplayType": 0,
       "BannerEventTagPosition": 0
-    },
-    {
-      "BannerId": 885,
-      "StartDate": "2026-04-29T11:00:00",
-      "EndDate": "2026-05-06T03:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/885/1152/",
-      "FileName": [
-        "Raid_Banner_11_jp_new_471711230.png"
-      ],
-      "LinkedLobbyBannerId": 0,
-      "BannerType": 4,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 1
     }
   ],
   "ServerStatus": 1,
