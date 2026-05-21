@@ -95,11 +95,11 @@
       "BannerId": 900,
       "StartDate": "2026-05-20T12:37:00",
       "EndDate": "2026-06-03T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/900/1172/",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/900/1175/",
       "FileName": [
-        "Event_Banner_Mini_60000_Jp_new_215231070.png"
+        "Event_Banner_Mini_60000_Jp_new_629345695.png"
       ],
-      "LinkedLobbyBannerId": 0,
+      "LinkedLobbyBannerId": 60018,
       "BannerType": 22,
       "BannerDisplayType": 0,
       "BannerEventTagPosition": 0
