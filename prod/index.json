@@ -1,14 +1,5 @@
 {
-  "Notices": [
-    {
-      "NoticeId": 1015,
-      "StartDate": "2026-05-19T15:00:00",
-      "EndDate": "2026-05-27T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1015/3582/index677192546.html",
-      "Title": "メンテナンス",
-      "DisplayOrder": 0
-    }
-  ],
+  "Notices": [],
   "Events": [
     {
       "NoticeId": 1014,
