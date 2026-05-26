@@ -1,5 +1,14 @@
 {
-  "Notices": [],
+  "Notices": [
+    {
+      "NoticeId": 1017,
+      "StartDate": "2026-05-26T15:00:00",
+      "EndDate": "2026-06-03T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1017/3586/index946468125.html",
+      "Title": "メンテナンス",
+      "DisplayOrder": 0
+    }
+  ],
   "Events": [
     {
       "NoticeId": 1014,
@@ -8,12 +17,28 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/1014/3578/index633596202.html",
       "Title": "ピックアップ募集",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1016,
+      "StartDate": "2026-05-26T14:00:00",
+      "EndDate": "2026-06-10T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1016/3583/index109124097.html",
+      "Title": "ピックアップ募集",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1018,
+      "StartDate": "2026-05-26T15:00:00",
+      "EndDate": "2026-06-10T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1018/3585/index854055858.html",
+      "Title": "ピックアップ募集",
+      "DisplayOrder": 0
     }
   ],
   "Issues": [],
   "Maintenance": {
-    "StartDate": "2026-05-20T11:00:00",
-    "EndDate": "2026-05-20T17:00:00",
+    "StartDate": "2026-05-27T11:00:00",
+    "EndDate": "2026-05-27T19:00:00",
     "Text": "定期メンテナンス中"
   },
   "Banners": [
