@@ -27,7 +27,16 @@
       "DisplayOrder": 0
     }
   ],
-  "Issues": [],
+  "Issues": [
+    {
+      "NoticeId": 1019,
+      "StartDate": "2026-05-28T10:30:42",
+      "EndDate": "2026-05-28T23:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1019/3593/index344172209.html",
+      "Title": "戦術対抗戦の不具合",
+      "DisplayOrder": 0
+    }
+  ],
   "Maintenance": {
     "StartDate": "2026-05-27T11:00:00",
     "EndDate": "2026-05-27T19:00:00",
