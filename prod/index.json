@@ -134,7 +134,7 @@
       "BannerEventTagPosition": 0
     }
   ],
-  "ServerStatus": 1,
+  "ServerStatus": 5,
   "LatestClientVersion": "1.69.428359",
   "LatestAndroidClientVersion": "1.69.428359",
   "LatestIosClientVersion": "1.69.428359",
@@ -232,14 +232,7 @@
     "EndDate": "2023-12-27T11:00:00",
     "Text": "新しいメインストーリーが更新されました。適用するため、アプリを一回再起動してください。\n期間限定のガチャチケットの使用期限は\n8月31日(水)の10:59までとなっております、お忘れになりませんよう、ご注意ください。\n本日11:00からメンテナンスを行います。先生のご協力をお願いいたします。\n不具合修正のため、9月28日01:40に一回強制ログアウトが発生します。先生のご協力をお願いいたします。"
   },
-  "ContentLock": [
-    {
-      "ContentLockType": 15,
-      "StartDate": "2026-05-28T01:51:13.3331472+09:00",
-      "EndDate": "2026-06-04T01:51:13.3331482+09:00",
-      "CreateDate": "2026-05-28T01:51:13.3331486+09:00"
-    }
-  ],
+  "ContentLock": [],
   "GachaPeriodDisplay": [
     {
       "GachaPeriodDisplayId": 141,
