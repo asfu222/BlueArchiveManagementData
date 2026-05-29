@@ -12,7 +12,7 @@
       "NoticeId": 1020,
       "StartDate": "2026-05-27T15:00:00",
       "EndDate": "2026-05-31T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1020/3594/index518808220.html",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1020/3598/index919690900.html",
       "Title": "臨時メンテナンス",
       "DisplayOrder": 0
     }
@@ -134,7 +134,7 @@
       "BannerEventTagPosition": 0
     }
   ],
-  "ServerStatus": 5,
+  "ServerStatus": 1,
   "LatestClientVersion": "1.69.428359",
   "LatestAndroidClientVersion": "1.69.428359",
   "LatestIosClientVersion": "1.69.428359",
