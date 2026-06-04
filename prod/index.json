@@ -1,5 +1,14 @@
 {
-  "Notices": [],
+  "Notices": [
+    {
+      "NoticeId": 1021,
+      "StartDate": "2026-06-01T15:00:00",
+      "EndDate": "2026-07-01T00:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1021/3599/index605929820.html",
+      "Title": "生徒誕生日カレンダー(2026年6月)",
+      "DisplayOrder": 0
+    }
+  ],
   "Events": [
     {
       "NoticeId": 1016,
