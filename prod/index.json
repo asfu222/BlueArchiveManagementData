@@ -27,7 +27,16 @@
       "DisplayOrder": 0
     }
   ],
-  "Issues": [],
+  "Issues": [
+    {
+      "NoticeId": 1022,
+      "StartDate": "2026-06-06T01:43:54",
+      "EndDate": "2026-06-10T03:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1022/3604/index793587047.html",
+      "Title": "総力戦にて確認中の不具合",
+      "DisplayOrder": 0
+    }
+  ],
   "Maintenance": {
     "StartDate": "2026-05-29T11:00:00",
     "EndDate": "2026-05-29T17:00:00",
