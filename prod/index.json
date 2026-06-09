@@ -51,16 +51,7 @@
       "DisplayOrder": 0
     }
   ],
-  "Issues": [
-    {
-      "NoticeId": 1022,
-      "StartDate": "2026-06-06T01:43:54",
-      "EndDate": "2026-06-10T03:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1022/3604/index793587047.html",
-      "Title": "総力戦にて確認中の不具合",
-      "DisplayOrder": 0
-    }
-  ],
+  "Issues": [],
   "Maintenance": {
     "StartDate": "2026-06-10T11:00:00",
     "EndDate": "2026-06-10T17:00:00",
@@ -144,19 +135,6 @@
       "BannerType": 0,
       "BannerDisplayType": 0,
       "BannerEventTagPosition": 0
-    },
-    {
-      "BannerId": 912,
-      "StartDate": "2026-06-03T15:59:19",
-      "EndDate": "2026-06-10T03:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/912/1190/",
-      "FileName": [
-        "Raid_Banner_22_Jp_474651483.png"
-      ],
-      "LinkedLobbyBannerId": 0,
-      "BannerType": 4,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 1
     }
   ],
   "ServerStatus": 1,
