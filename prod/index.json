@@ -12,7 +12,7 @@
       "NoticeId": 1025,
       "StartDate": "2026-06-09T15:00:00",
       "EndDate": "2026-06-17T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1025/3608/index372976764.html",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1025/3611/index743648454.html",
       "Title": "メンテナンス",
       "DisplayOrder": 0
     }
@@ -121,7 +121,7 @@
       "BannerEventTagPosition": 0
     }
   ],
-  "ServerStatus": 5,
+  "ServerStatus": 1,
   "LatestClientVersion": "1.69.428359",
   "LatestAndroidClientVersion": "1.69.428359",
   "LatestIosClientVersion": "1.69.428359",
@@ -200,6 +200,7 @@
       "GachaDisplayTag": -1
     }
   ],
+  "MarketAppleId": null,
   "NotificationBeforeMaintenance": {
     "PopupType": 1,
     "StartDate": "2023-12-19T00:00:00+09:00",
@@ -225,6 +226,7 @@
       "Text": " "
     }
   ],
+  "RaidPeriodDisplay": null,
   "Survey": {
     "SurveyId": 199990730,
     "PopupType": 1,
@@ -232,7 +234,8 @@
     "EndDate": "2023-01-23T23:59:59",
     "FileName": "Lobby_Banner.png",
     "Url": "https://prod-notice.bluearchiveyostar.com/prod/SurveyGuidePopup/199990730/",
-    "Text": "ブルアカ2周年　特別アンケート"
+    "Text": "ブルアカ2周年　特別アンケート",
+    "NotifyUrl": null
   },
   "GuidePopup": [
     {
@@ -245,6 +248,7 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/44/75/",
       "Message": "「ブルアカ」PC版 リリース！",
       "SurveyId": 0,
+      "NotifyUrl": null,
       "GotoUrl": "https://bluearchive.jp/news/newsJump/627",
       "DisplayOrder": 1,
       "PopupOKText": "詳細確認"
@@ -259,6 +263,8 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/45/78/",
       "Message": "アンケートに協力して、報酬を受け取りましょう！",
       "SurveyId": 338603093,
+      "NotifyUrl": null,
+      "GotoUrl": null,
       "DisplayOrder": 1,
       "PopupOKText": ""
     },
@@ -272,6 +278,7 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/46/79/",
       "Message": "　　　　　ブルアカらいぶ！ 　　　　　放送中！",
       "SurveyId": 0,
+      "NotifyUrl": null,
       "GotoUrl": "https://app.adjust.com/1z2av39t?redirect=https%3A%2F%2Fwww.youtube.com%2Flive%2Fjy-kAisDrLM",
       "DisplayOrder": 0,
       "PopupOKText": "見に行く"
