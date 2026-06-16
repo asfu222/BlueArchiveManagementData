@@ -15,6 +15,14 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/1025/3611/index743648454.html",
       "Title": "メンテナンス",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1026,
+      "StartDate": "2026-06-14T19:00:00",
+      "EndDate": "2026-06-20T19:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1026/3612/index506121351.html",
+      "Title": "ブルアカらいぶ！配信情報",
+      "DisplayOrder": 0
     }
   ],
   "Events": [
@@ -32,6 +40,14 @@
       "EndDate": "2026-06-17T11:00:00",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/1024/3609/index629935877.html",
       "Title": "イベント紹介",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1033,
+      "StartDate": "2026-06-16T15:00:00",
+      "EndDate": "2026-06-24T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1033/3620/index551473244.html",
+      "Title": "ピックアップ募集",
       "DisplayOrder": 0
     }
   ],
