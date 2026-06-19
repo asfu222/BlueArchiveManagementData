@@ -285,6 +285,21 @@
       "GotoUrl": "https://app.adjust.com/1z2av39t?redirect=https%3A%2F%2Fwww.youtube.com%2Flive%2Fjy-kAisDrLM",
       "DisplayOrder": 0,
       "PopupOKText": "見に行く"
+    },
+    {
+      "GuidePopupId": 47,
+      "GuidePopupType": 1,
+      "PopupType": 1,
+      "StartDate": "2026-06-20T18:55:00",
+      "EndDate": "2026-06-20T21:00:00",
+      "FileName": "Live202620.png",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/47/80/",
+      "Message": "　　　　　ブルアカらいぶ！　　 　　　放送中！",
+      "SurveyId": 0,
+      "NotifyUrl": null,
+      "GotoUrl": "https://app.adjust.com/218zse8u?redirect=https%3A%2F%2Fwww.youtube.com%2Flive%2FN-WHdoxBDdU",
+      "DisplayOrder": 0,
+      "PopupOKText": "見に行く"
     }
   ],
   "DownloadLimitTime": 0.0,
