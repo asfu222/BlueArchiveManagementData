@@ -7,14 +7,6 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/1037/3628/index972222174.html",
       "Title": "生徒誕生日カレンダー(2026年7月)",
       "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 1040,
-      "StartDate": "2026-07-06T14:00:00",
-      "EndDate": "2026-07-15T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1040/3633/index328849082.html",
-      "Title": "メンテナンス",
-      "DisplayOrder": 0
     }
   ],
   "Events": [
@@ -121,19 +113,6 @@
       "BannerEventTagPosition": 1
     },
     {
-      "BannerId": 935,
-      "StartDate": "2026-07-08T11:23:58",
-      "EndDate": "2026-07-15T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/935/1216/",
-      "FileName": [
-        "Event_Banner_51000_Jp_new_697229130.png"
-      ],
-      "LinkedLobbyBannerId": 7000,
-      "BannerType": 1,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
-    },
-    {
       "BannerId": 936,
       "StartDate": "2026-07-08T11:30:12",
       "EndDate": "2026-07-29T10:59:59",
@@ -147,15 +126,15 @@
       "BannerEventTagPosition": 0
     },
     {
-      "BannerId": 939,
-      "StartDate": "2026-07-08T12:50:20",
-      "EndDate": "2026-07-15T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/939/1220/",
+      "BannerId": 940,
+      "StartDate": "2026-07-15T11:00:00",
+      "EndDate": "2026-07-22T03:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/940/1221/",
       "FileName": [
-        "Event_Banner_859_Jp_604770613.png"
+        "Eliminate_Banner_13_Jp_new_574504863.png"
       ],
-      "LinkedLobbyBannerId": 859,
-      "BannerType": 0,
+      "LinkedLobbyBannerId": 0,
+      "BannerType": 27,
       "BannerDisplayType": 0,
       "BannerEventTagPosition": 1
     }
