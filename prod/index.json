@@ -140,19 +140,6 @@
       "BannerType": 1,
       "BannerDisplayType": 0,
       "BannerEventTagPosition": 0
-    },
-    {
-      "BannerId": 940,
-      "StartDate": "2026-07-15T11:00:00",
-      "EndDate": "2026-07-22T03:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/940/1221/",
-      "FileName": [
-        "Eliminate_Banner_13_Jp_new_574504863.png"
-      ],
-      "LinkedLobbyBannerId": 0,
-      "BannerType": 27,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 1
     }
   ],
   "ServerStatus": 1,
