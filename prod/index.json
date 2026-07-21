@@ -33,6 +33,14 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/1039/3630/index17988946.html",
       "Title": "イベント紹介",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1042,
+      "StartDate": "2026-07-21T14:00:00",
+      "EndDate": "2026-07-29T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1042/3636/index994415794.html",
+      "Title": "ピックアップ募集",
+      "DisplayOrder": 0
     }
   ],
   "Issues": [],
@@ -253,6 +261,42 @@
       "GachaProbabilityDisplayId": 623,
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/623/index.html",
       "LinkedLobbyBannerId": 7000,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 624,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/624/index.html",
+      "LinkedLobbyBannerId": 1029,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 625,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/625/index.html",
+      "LinkedLobbyBannerId": 1030,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 626,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/626/index.html",
+      "LinkedLobbyBannerId": 1031,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 627,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/627/index.html",
+      "LinkedLobbyBannerId": 1032,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 628,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/628/index.html",
+      "LinkedLobbyBannerId": 1033,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 629,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/629/index.html",
+      "LinkedLobbyBannerId": 1034,
       "GachaDisplayTag": -1
     }
   ],
