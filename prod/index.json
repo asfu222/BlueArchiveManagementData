@@ -7,6 +7,22 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/1037/3628/index972222174.html",
       "Title": "生徒誕生日カレンダー(2026年7月)",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1044,
+      "StartDate": "2026-07-28T14:00:00",
+      "EndDate": "2026-08-12T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1044/3640/index939179710.html",
+      "Title": "【重要なお知らせ】募集リニューアルについて",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1045,
+      "StartDate": "2026-07-28T15:00:00",
+      "EndDate": "2026-08-12T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1045/3643/index744899641.html",
+      "Title": "メンテナンス",
+      "DisplayOrder": 0
     }
   ],
   "Events": [
@@ -16,6 +32,22 @@
       "EndDate": "2026-07-29T11:00:00",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/1042/3636/index994415794.html",
       "Title": "ピックアップ募集",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1043,
+      "StartDate": "2026-07-28T14:00:00",
+      "EndDate": "2026-08-05T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1043/3638/index111912611.html",
+      "Title": "ピックアップ募集",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1046,
+      "StartDate": "2026-07-28T15:00:00",
+      "EndDate": "2026-08-12T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1046/3644/index925872174.html",
+      "Title": "イベント紹介",
       "DisplayOrder": 0
     }
   ],
