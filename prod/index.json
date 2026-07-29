@@ -51,32 +51,6 @@
   },
   "Banners": [
     {
-      "BannerId": 959,
-      "StartDate": "2026-07-29T17:31:09",
-      "EndDate": "2026-08-05T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/959/1251/",
-      "FileName": [
-        "Lobby_Banner_20260729_01_839368087.png"
-      ],
-      "LinkedLobbyBannerId": 0,
-      "BannerType": 1,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
-    },
-    {
-      "BannerId": 960,
-      "StartDate": "2026-07-29T17:32:52",
-      "EndDate": "2026-08-05T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/960/1252/",
-      "FileName": [
-        "Lobby_Banner_20260729_02_598772747.png"
-      ],
-      "LinkedLobbyBannerId": 0,
-      "BannerType": 1,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
-    },
-    {
       "BannerId": 967,
       "StartDate": "2026-07-29T17:37:01",
       "EndDate": "2026-08-19T10:59:59",
@@ -88,45 +62,6 @@
       "BannerType": 0,
       "BannerDisplayType": 0,
       "BannerEventTagPosition": 1
-    },
-    {
-      "BannerId": 968,
-      "StartDate": "2026-07-29T17:37:25",
-      "EndDate": "2026-08-12T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/968/1261/",
-      "FileName": [
-        "Event_Banner_100000new_567730979.png"
-      ],
-      "LinkedLobbyBannerId": 0,
-      "BannerType": 1,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
-    },
-    {
-      "BannerId": 970,
-      "StartDate": "2026-07-29T17:38:54",
-      "EndDate": "2026-08-05T17:38:54",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/970/1264/",
-      "FileName": [
-        "Event_Banner_80100_Jp_new_216102538.png"
-      ],
-      "LinkedLobbyBannerId": 0,
-      "BannerType": 1,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
-    },
-    {
-      "BannerId": 971,
-      "StartDate": "2026-07-29T17:39:23",
-      "EndDate": "2026-08-05T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/971/1265/",
-      "FileName": [
-        "Event_Banner_Mini_60000_Jp_new_325404152.png"
-      ],
-      "LinkedLobbyBannerId": 0,
-      "BannerType": 22,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
     },
     {
       "BannerId": 972,
@@ -168,7 +103,7 @@
       "BannerEventTagPosition": 0
     }
   ],
-  "ServerStatus": 5,
+  "ServerStatus": 1,
   "LatestClientVersion": "1.71.444904",
   "LatestAndroidClientVersion": "1.71.444904",
   "LatestIosClientVersion": "1.71.444904",
