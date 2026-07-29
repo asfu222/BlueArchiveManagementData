@@ -20,7 +20,7 @@
       "NoticeId": 1045,
       "StartDate": "2026-07-28T15:00:00",
       "EndDate": "2026-08-12T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1045/3643/index744899641.html",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1045/3649/index663408560.html",
       "Title": "メンテナンス",
       "DisplayOrder": 0
     }
@@ -30,7 +30,7 @@
       "NoticeId": 1043,
       "StartDate": "2026-07-28T14:00:00",
       "EndDate": "2026-08-05T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1043/3638/index111912611.html",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1043/3648/index748082135.html",
       "Title": "ピックアップ募集",
       "DisplayOrder": 0
     },
@@ -50,19 +50,6 @@
     "Text": "定期メンテナンス中"
   },
   "Banners": [
-    {
-      "BannerId": 946,
-      "StartDate": "2026-07-22T11:00:00",
-      "EndDate": "2026-08-05T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/946/1227/",
-      "FileName": [
-        "Event_Banner_Mini_60000_Jp_new_449306262.png"
-      ],
-      "LinkedLobbyBannerId": 60019,
-      "BannerType": 22,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
-    },
     {
       "BannerId": 947,
       "StartDate": "2026-07-29T12:51:20",
@@ -199,6 +186,24 @@
       "GachaProbabilityDisplayId": 623,
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/623/index.html",
       "LinkedLobbyBannerId": 7000,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 636,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/636/index.html",
+      "LinkedLobbyBannerId": 5000,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 630,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/630/index.html",
+      "LinkedLobbyBannerId": 1040,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 631,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/631/index.html",
+      "LinkedLobbyBannerId": 1041,
       "GachaDisplayTag": -1
     }
   ],
