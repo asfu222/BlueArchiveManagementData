@@ -1,14 +1,6 @@
 {
   "Notices": [
     {
-      "NoticeId": 1037,
-      "StartDate": "2026-07-01T15:00:00",
-      "EndDate": "2026-07-31T23:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1037/3628/index972222174.html",
-      "Title": "生徒誕生日カレンダー(2026年7月)",
-      "DisplayOrder": 0
-    },
-    {
       "NoticeId": 1044,
       "StartDate": "2026-07-28T14:00:00",
       "EndDate": "2026-08-12T11:00:00",
@@ -22,6 +14,14 @@
       "EndDate": "2026-08-12T11:00:00",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/1045/3652/index644133516.html",
       "Title": "メンテナンス",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1047,
+      "StartDate": "2026-07-31T15:00:00",
+      "EndDate": "2026-08-31T23:59:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1047/3655/index7645014.html",
+      "Title": "誕生日カレンダー",
       "DisplayOrder": 0
     }
   ],
