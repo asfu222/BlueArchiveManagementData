@@ -9,44 +9,44 @@
       "DisplayOrder": 0
     },
     {
-      "NoticeId": 1045,
-      "StartDate": "2026-07-28T15:00:00",
-      "EndDate": "2026-08-12T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1045/3652/index644133516.html",
-      "Title": "メンテナンス",
-      "DisplayOrder": 0
-    },
-    {
       "NoticeId": 1047,
       "StartDate": "2026-07-31T15:00:00",
       "EndDate": "2026-08-31T23:59:00",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/1047/3655/index7645014.html",
       "Title": "誕生日カレンダー",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1051,
+      "StartDate": "2026-08-11T15:00:00",
+      "EndDate": "2026-08-19T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1051/3663/index169829140.html",
+      "Title": "お知らせ",
+      "DisplayOrder": 0
     }
   ],
   "Events": [
     {
-      "NoticeId": 1046,
-      "StartDate": "2026-07-28T15:00:00",
-      "EndDate": "2026-08-12T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1046/3644/index925872174.html",
-      "Title": "イベント紹介",
+      "NoticeId": 1049,
+      "StartDate": "2026-08-11T14:00:00",
+      "EndDate": "2026-08-26T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1049/3660/index780909410.html",
+      "Title": "ピックアップ募集",
       "DisplayOrder": 0
     },
     {
-      "NoticeId": 1048,
-      "StartDate": "2026-08-04T14:00:00",
-      "EndDate": "2026-08-12T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1048/3657/index911794958.html",
-      "Title": "ピックアップ募集",
+      "NoticeId": 1050,
+      "StartDate": "2026-08-11T15:00:00",
+      "EndDate": "2026-08-26T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1050/3664/index963513570.html",
+      "Title": "イベント紹介",
       "DisplayOrder": 0
     }
   ],
   "Issues": [],
   "Maintenance": {
-    "StartDate": "2026-07-29T11:00:00",
-    "EndDate": "2026-07-29T20:00:00",
+    "StartDate": "2026-08-12T11:00:00",
+    "EndDate": "2026-08-12T17:00:00",
     "Text": "定期メンテナンス中"
   },
   "Banners": [
