@@ -9,11 +9,11 @@
       "DisplayOrder": 0
     },
     {
-      "NoticeId": 1051,
-      "StartDate": "2026-08-11T15:00:00",
-      "EndDate": "2026-08-19T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1051/3668/index932665074.html",
-      "Title": "メンテナンス",
+      "NoticeId": 1052,
+      "StartDate": "2026-08-19T11:00:00",
+      "EndDate": "2026-08-21T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1052/3669/index447217656.html",
+      "Title": "メインストーリー公開中",
       "DisplayOrder": 0
     }
   ],
@@ -108,19 +108,6 @@
       "BannerEventTagPosition": 0
     },
     {
-      "BannerId": 990,
-      "StartDate": "2026-08-12T11:13:25",
-      "EndDate": "2026-08-19T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/990/1286/",
-      "FileName": [
-        "Event_Banner_860_Jp_721354821.png"
-      ],
-      "LinkedLobbyBannerId": 860,
-      "BannerType": 0,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 1
-    },
-    {
       "BannerId": 991,
       "StartDate": "2026-08-12T11:15:30",
       "EndDate": "2026-08-26T10:59:59",
@@ -132,6 +119,19 @@
       "BannerType": 1,
       "BannerDisplayType": 0,
       "BannerEventTagPosition": 0
+    },
+    {
+      "BannerId": 993,
+      "StartDate": "2026-08-19T11:00:00",
+      "EndDate": "2026-08-26T03:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/993/1289/",
+      "FileName": [
+        "EliminateRaid_Banner_4_jp_new_56624435.png"
+      ],
+      "LinkedLobbyBannerId": 0,
+      "BannerType": 27,
+      "BannerDisplayType": 0,
+      "BannerEventTagPosition": 1
     }
   ],
   "ServerStatus": 1,
