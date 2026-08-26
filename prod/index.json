@@ -12,7 +12,7 @@
       "NoticeId": 1055,
       "StartDate": "2026-08-25T15:00:00",
       "EndDate": "2026-09-02T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1055/3676/index854057103.html",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1055/3677/index713920475.html",
       "Title": "メンテナンス",
       "DisplayOrder": 0
     }
@@ -95,7 +95,7 @@
       "BannerEventTagPosition": 0
     }
   ],
-  "ServerStatus": 5,
+  "ServerStatus": 1,
   "LatestClientVersion": "1.72.452186",
   "LatestAndroidClientVersion": "1.72.452186",
   "LatestIosClientVersion": "1.72.452186",
