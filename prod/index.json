@@ -1,14 +1,6 @@
 {
   "Notices": [
     {
-      "NoticeId": 1055,
-      "StartDate": "2026-08-25T15:00:00",
-      "EndDate": "2026-09-02T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1055/3677/index713920475.html",
-      "Title": "メンテナンス",
-      "DisplayOrder": 0
-    },
-    {
       "NoticeId": 1056,
       "StartDate": "2026-09-01T15:00:00",
       "EndDate": "2026-09-30T23:59:00",
@@ -82,17 +74,17 @@
       "BannerEventTagPosition": 1
     },
     {
-      "BannerId": 997,
-      "StartDate": "2026-08-26T11:12:34",
-      "EndDate": "2026-09-02T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/997/1293/",
+      "BannerId": 998,
+      "StartDate": "2026-09-02T11:00:00",
+      "EndDate": "2026-09-09T03:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/998/1295/",
       "FileName": [
-        "Event_Banner_844_Jp_new_587752255.png"
+        "Raid_Banner_10_jp_new_592889673.png"
       ],
-      "LinkedLobbyBannerId": 10844,
-      "BannerType": 0,
+      "LinkedLobbyBannerId": 0,
+      "BannerType": 4,
       "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
+      "BannerEventTagPosition": 1
     }
   ],
   "ServerStatus": 1,
