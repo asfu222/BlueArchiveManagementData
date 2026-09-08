@@ -7,6 +7,14 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/1056/3679/index378574782.html",
       "Title": "誕生日カレンダー",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1059,
+      "StartDate": "2026-09-08T15:00:00",
+      "EndDate": "2026-09-16T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1059/3689/index1249926.html",
+      "Title": "メンテナンス",
+      "DisplayOrder": 0
     }
   ],
   "Events": [
@@ -33,12 +41,20 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/1057/3686/index109784583.html",
       "Title": "ピックアップ募集",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1058,
+      "StartDate": "2026-09-08T15:00:00",
+      "EndDate": "2026-09-23T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1058/3688/index470867010.html",
+      "Title": "イベント紹介",
+      "DisplayOrder": 0
     }
   ],
   "Issues": [],
   "Maintenance": {
-    "StartDate": "2026-08-26T11:00:00",
-    "EndDate": "2026-08-26T19:00:00",
+    "StartDate": "2026-09-09T11:00:00",
+    "EndDate": "2026-09-09T17:00:00",
     "Text": "定期メンテナンス中"
   },
   "Banners": [
