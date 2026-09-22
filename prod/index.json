@@ -127,19 +127,6 @@
       "BannerType": 0,
       "BannerDisplayType": 0,
       "BannerEventTagPosition": 1
-    },
-    {
-      "BannerId": 1007,
-      "StartDate": "2026-09-16T11:00:00",
-      "EndDate": "2026-09-23T03:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1007/1305/",
-      "FileName": [
-        "EliminateRaid_Banner_7_jp_new_121555546.png"
-      ],
-      "LinkedLobbyBannerId": 0,
-      "BannerType": 27,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 1
     }
   ],
   "ServerStatus": 1,
