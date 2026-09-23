@@ -12,7 +12,7 @@
       "NoticeId": 1064,
       "StartDate": "2026-09-22T15:00:00",
       "EndDate": "2026-09-30T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1064/3700/index799235223.html",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1064/3705/index313585906.html",
       "Title": "メンテナンス",
       "DisplayOrder": 0
     }
@@ -37,9 +37,9 @@
   ],
   "Issues": [],
   "Maintenance": {
-    "StartDate": "2026-09-23T11:00:00",
-    "EndDate": "2026-09-23T19:00:00",
-    "Text": "定期メンテナンス中"
+    "StartDate": "2026-09-23T20:35:00",
+    "EndDate": "9999-12-31T23:59:59.9999999",
+    "Text": "緊急メンテナンス中"
   },
   "Banners": [
     {
