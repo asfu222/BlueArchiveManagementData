@@ -1,14 +1,5 @@
 {
-  "Notices": [
-    {
-      "NoticeId": 1056,
-      "StartDate": "2026-09-01T15:00:00",
-      "EndDate": "2026-09-30T23:59:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1056/3679/index378574782.html",
-      "Title": "誕生日カレンダー",
-      "DisplayOrder": 0
-    }
-  ],
+  "Notices": [],
   "Events": [
     {
       "NoticeId": 1062,
