@@ -1,5 +1,14 @@
 {
-  "Notices": [],
+  "Notices": [
+    {
+      "NoticeId": 1065,
+      "StartDate": "2026-10-01T15:00:00",
+      "EndDate": "2026-10-31T23:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1065/3706/index32901686.html",
+      "Title": "生徒誕生日カレンダー",
+      "DisplayOrder": 0
+    }
+  ],
   "Events": [
     {
       "NoticeId": 1062,
