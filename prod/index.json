@@ -7,17 +7,17 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/1065/3706/index32901686.html",
       "Title": "生徒誕生日カレンダー",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1069,
+      "StartDate": "2026-10-19T19:00:00",
+      "EndDate": "2026-10-25T19:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1069/3713/index474736377.html",
+      "Title": "ブルアカらいぶ！配信情報",
+      "DisplayOrder": 0
     }
   ],
   "Events": [
-    {
-      "NoticeId": 1067,
-      "StartDate": "2026-10-06T15:00:00",
-      "EndDate": "2026-10-21T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1067/3708/index359039890.html",
-      "Title": "イベント紹介",
-      "DisplayOrder": 0
-    },
     {
       "NoticeId": 1066,
       "StartDate": "2026-10-06T14:00:00",
