@@ -15,6 +15,14 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/1069/3713/index474736377.html",
       "Title": "ブルアカらいぶ！配信情報",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1072,
+      "StartDate": "2026-10-20T15:00:00",
+      "EndDate": "2026-10-27T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1072/3717/index874881372.html",
+      "Title": "コンテンツ更新のお知らせ",
+      "DisplayOrder": 0
     }
   ],
   "Events": [
@@ -24,6 +32,22 @@
       "EndDate": "2026-10-21T11:00:00",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/1066/3710/index215574367.html",
       "Title": "ピックアップ募集",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1070,
+      "StartDate": "2026-10-20T14:00:00",
+      "EndDate": "2026-10-27T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1070/3714/index101663911.html",
+      "Title": "ピックアップ募集",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1071,
+      "StartDate": "2026-10-20T15:00:00",
+      "EndDate": "2026-10-27T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1071/3716/index841626250.html",
+      "Title": "イベント紹介",
       "DisplayOrder": 0
     }
   ],
@@ -226,6 +250,30 @@
       "GachaProbabilityDisplayId": 654,
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/654/index.html",
       "LinkedLobbyBannerId": 1066,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 655,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/655/index.html",
+      "LinkedLobbyBannerId": 1067,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 656,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/656/index.html",
+      "LinkedLobbyBannerId": 1068,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 657,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/657/index.html",
+      "LinkedLobbyBannerId": 1069,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 658,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/658/index.html",
+      "LinkedLobbyBannerId": 1070,
       "GachaDisplayTag": -1
     }
   ],
