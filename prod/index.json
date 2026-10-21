@@ -27,14 +27,6 @@
   ],
   "Events": [
     {
-      "NoticeId": 1066,
-      "StartDate": "2026-10-06T14:00:00",
-      "EndDate": "2026-10-21T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1066/3710/index215574367.html",
-      "Title": "ピックアップ募集",
-      "DisplayOrder": 0
-    },
-    {
       "NoticeId": 1070,
       "StartDate": "2026-10-20T14:00:00",
       "EndDate": "2026-10-27T11:00:00",
@@ -59,71 +51,6 @@
   },
   "Banners": [
     {
-      "BannerId": 1013,
-      "StartDate": "2026-10-07T11:05:54",
-      "EndDate": "2026-10-21T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1013/1321/",
-      "FileName": [
-        "Lobby_Banner_20261007_01_498312024.png"
-      ],
-      "LinkedLobbyBannerId": 1062,
-      "BannerType": 1,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 1
-    },
-    {
-      "BannerId": 1014,
-      "StartDate": "2026-10-07T11:09:02",
-      "EndDate": "2026-10-21T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1014/1322/",
-      "FileName": [
-        "Lobby_Banner_20261007_02_374822349.png"
-      ],
-      "LinkedLobbyBannerId": 1063,
-      "BannerType": 1,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
-    },
-    {
-      "BannerId": 1015,
-      "StartDate": "2026-10-07T11:09:49",
-      "EndDate": "2026-10-21T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1015/1323/",
-      "FileName": [
-        "Lobby_Banner_20261007_03_701547271.png"
-      ],
-      "LinkedLobbyBannerId": 1064,
-      "BannerType": 1,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
-    },
-    {
-      "BannerId": 1016,
-      "StartDate": "2026-10-07T11:13:47",
-      "EndDate": "2026-10-21T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1016/1324/",
-      "FileName": [
-        "Lobby_Banner_20261007_04_548254974.png"
-      ],
-      "LinkedLobbyBannerId": 1065,
-      "BannerType": 1,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
-    },
-    {
-      "BannerId": 1017,
-      "StartDate": "2026-10-07T11:14:36",
-      "EndDate": "2026-10-21T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1017/1325/",
-      "FileName": [
-        "Lobby_Banner_20261007_05_474029682.png"
-      ],
-      "LinkedLobbyBannerId": 1066,
-      "BannerType": 1,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
-    },
-    {
       "BannerId": 1018,
       "StartDate": "2026-10-07T11:15:47",
       "EndDate": "2026-10-28T10:59:59",
@@ -135,6 +62,71 @@
       "BannerType": 0,
       "BannerDisplayType": 0,
       "BannerEventTagPosition": 1
+    },
+    {
+      "BannerId": 1022,
+      "StartDate": "2026-10-21T11:00:00",
+      "EndDate": "2026-10-28T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1022/1327/",
+      "FileName": [
+        "Lobby_Banner_20261021_01_495361836.png"
+      ],
+      "LinkedLobbyBannerId": 1067,
+      "BannerType": 1,
+      "BannerDisplayType": 0,
+      "BannerEventTagPosition": 0
+    },
+    {
+      "BannerId": 1023,
+      "StartDate": "2026-10-21T11:00:00",
+      "EndDate": "2026-10-28T03:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1023/1328/",
+      "FileName": [
+        "Lobby_Banner_20261021_02_714374607.png"
+      ],
+      "LinkedLobbyBannerId": 1068,
+      "BannerType": 1,
+      "BannerDisplayType": 0,
+      "BannerEventTagPosition": 0
+    },
+    {
+      "BannerId": 1024,
+      "StartDate": "2026-10-21T11:00:00",
+      "EndDate": "2026-10-28T03:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1024/1329/",
+      "FileName": [
+        "Lobby_Banner_20261021_03_183113527.png"
+      ],
+      "LinkedLobbyBannerId": 1069,
+      "BannerType": 1,
+      "BannerDisplayType": 0,
+      "BannerEventTagPosition": 0
+    },
+    {
+      "BannerId": 1025,
+      "StartDate": "2026-10-21T11:00:00",
+      "EndDate": "2026-10-28T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1025/1330/",
+      "FileName": [
+        "Lobby_Banner_20261021_04_341806491.png"
+      ],
+      "LinkedLobbyBannerId": 1070,
+      "BannerType": 1,
+      "BannerDisplayType": 0,
+      "BannerEventTagPosition": 0
+    },
+    {
+      "BannerId": 1026,
+      "StartDate": "2026-10-21T11:00:00",
+      "EndDate": "2026-11-04T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1026/1331/",
+      "FileName": [
+        "Event_Banner_857_Jp_691796727.png"
+      ],
+      "LinkedLobbyBannerId": 863,
+      "BannerType": 0,
+      "BannerDisplayType": 0,
+      "BannerEventTagPosition": 0
     }
   ],
   "ServerStatus": 1,
