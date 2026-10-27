@@ -77,32 +77,6 @@
       "BannerEventTagPosition": 0
     },
     {
-      "BannerId": 1023,
-      "StartDate": "2026-10-21T11:00:00",
-      "EndDate": "2026-10-28T03:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1023/1328/",
-      "FileName": [
-        "Lobby_Banner_20261021_02_714374607.png"
-      ],
-      "LinkedLobbyBannerId": 1068,
-      "BannerType": 1,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
-    },
-    {
-      "BannerId": 1024,
-      "StartDate": "2026-10-21T11:00:00",
-      "EndDate": "2026-10-28T03:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1024/1329/",
-      "FileName": [
-        "Lobby_Banner_20261021_03_183113527.png"
-      ],
-      "LinkedLobbyBannerId": 1069,
-      "BannerType": 1,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
-    },
-    {
       "BannerId": 1025,
       "StartDate": "2026-10-21T11:00:00",
       "EndDate": "2026-10-28T10:59:59",
