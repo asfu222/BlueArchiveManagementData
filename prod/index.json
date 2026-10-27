@@ -7,38 +7,22 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/1065/3706/index32901686.html",
       "Title": "生徒誕生日カレンダー",
       "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 1072,
-      "StartDate": "2026-10-20T15:00:00",
-      "EndDate": "2026-10-27T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1072/3717/index874881372.html",
-      "Title": "コンテンツ更新のお知らせ",
-      "DisplayOrder": 0
     }
   ],
   "Events": [
     {
-      "NoticeId": 1070,
-      "StartDate": "2026-10-20T14:00:00",
-      "EndDate": "2026-10-27T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1070/3714/index101663911.html",
-      "Title": "ピックアップ募集",
-      "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 1071,
-      "StartDate": "2026-10-20T15:00:00",
-      "EndDate": "2026-10-27T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1071/3716/index841626250.html",
-      "Title": "イベント紹介",
+      "NoticeId": 1073,
+      "StartDate": "2026-10-27T14:00:00",
+      "EndDate": "2026-11-11T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1073/3720/index966737396.html",
+      "Title": "ピックアップ予告",
       "DisplayOrder": 0
     }
   ],
   "Issues": [],
   "Maintenance": {
-    "StartDate": "2026-10-07T11:00:00",
-    "EndDate": "2026-10-07T17:00:00",
+    "StartDate": "2026-10-28T11:00:00",
+    "EndDate": "2026-10-28T19:00:00",
     "Text": "定期メンテナンス中"
   },
   "Banners": [
