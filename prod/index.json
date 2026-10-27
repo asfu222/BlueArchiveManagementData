@@ -7,6 +7,22 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/1065/3706/index32901686.html",
       "Title": "生徒誕生日カレンダー",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1075,
+      "StartDate": "2026-10-27T15:00:00",
+      "EndDate": "2026-11-11T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1075/3722/index213840420.html",
+      "Title": "「仮想適性試験BETA」について",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1076,
+      "StartDate": "2026-10-27T15:00:00",
+      "EndDate": "2026-11-04T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1076/3723/index563586069.html",
+      "Title": "メンテナンス",
+      "DisplayOrder": 0
     }
   ],
   "Events": [
@@ -16,6 +32,14 @@
       "EndDate": "2026-11-11T11:00:00",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/1073/3720/index966737396.html",
       "Title": "ピックアップ予告",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1074,
+      "StartDate": "2026-10-27T15:00:00",
+      "EndDate": "2026-11-11T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1074/3721/index915738644.html",
+      "Title": "イベント紹介",
       "DisplayOrder": 0
     }
   ],
