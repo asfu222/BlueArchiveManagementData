@@ -51,19 +51,6 @@
   },
   "Banners": [
     {
-      "BannerId": 1026,
-      "StartDate": "2026-10-21T11:00:00",
-      "EndDate": "2026-11-04T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1026/1331/",
-      "FileName": [
-        "Event_Banner_857_Jp_691796727.png"
-      ],
-      "LinkedLobbyBannerId": 863,
-      "BannerType": 0,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
-    },
-    {
       "BannerId": 1029,
       "StartDate": "2026-10-28T11:14:49",
       "EndDate": "2026-11-11T10:59:59",
@@ -114,9 +101,61 @@
       "BannerType": 1,
       "BannerDisplayType": 0,
       "BannerEventTagPosition": 0
+    },
+    {
+      "BannerId": 1034,
+      "StartDate": "2026-10-28T14:36:58",
+      "EndDate": "2026-11-25T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1034/1340/",
+      "FileName": [
+        "属性別募集パッケージバナー_貫通_2026_351278034.png"
+      ],
+      "LinkedLobbyBannerId": 2210,
+      "BannerType": 1,
+      "BannerDisplayType": 0,
+      "BannerEventTagPosition": 0
+    },
+    {
+      "BannerId": 1035,
+      "StartDate": "2026-10-28T14:37:59",
+      "EndDate": "2026-11-25T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1035/1341/",
+      "FileName": [
+        "属性別募集パッケージバナー_神秘_2026_850866140.png"
+      ],
+      "LinkedLobbyBannerId": 2310,
+      "BannerType": 1,
+      "BannerDisplayType": 0,
+      "BannerEventTagPosition": 0
+    },
+    {
+      "BannerId": 1036,
+      "StartDate": "2026-10-28T14:40:05",
+      "EndDate": "2026-11-25T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1036/1342/",
+      "FileName": [
+        "属性別募集パッケージバナー_振動_2026_884818692.png"
+      ],
+      "LinkedLobbyBannerId": 2410,
+      "BannerType": 1,
+      "BannerDisplayType": 0,
+      "BannerEventTagPosition": 0
+    },
+    {
+      "BannerId": 1038,
+      "StartDate": "2026-10-28T15:11:56",
+      "EndDate": "2026-11-25T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1038/1344/",
+      "FileName": [
+        "Event_Banner_110000_Jp_192905083.png"
+      ],
+      "LinkedLobbyBannerId": 5100,
+      "BannerType": 1,
+      "BannerDisplayType": 0,
+      "BannerEventTagPosition": 0
     }
   ],
-  "ServerStatus": 5,
+  "ServerStatus": 1,
   "LatestClientVersion": "1.74.468622",
   "LatestAndroidClientVersion": "1.74.468622",
   "LatestIosClientVersion": "1.74.468622",
@@ -215,10 +254,11 @@
     {
       "GachaProbabilityDisplayId": 665,
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/665/index.html",
-      "LinkedLobbyBannerId": 110000,
+      "LinkedLobbyBannerId": 5100,
       "GachaDisplayTag": -1
     }
   ],
+  "MarketAppleId": null,
   "NotificationBeforeMaintenance": {
     "PopupType": 1,
     "StartDate": "2023-12-19T00:00:00+09:00",
@@ -244,6 +284,7 @@
       "Text": " "
     }
   ],
+  "RaidPeriodDisplay": null,
   "Survey": {
     "SurveyId": 199990730,
     "PopupType": 1,
@@ -251,7 +292,8 @@
     "EndDate": "2023-01-23T23:59:59",
     "FileName": "Lobby_Banner.png",
     "Url": "https://prod-notice.bluearchiveyostar.com/prod/SurveyGuidePopup/199990730/",
-    "Text": "ブルアカ2周年　特別アンケート"
+    "Text": "ブルアカ2周年　特別アンケート",
+    "NotifyUrl": null
   },
   "GuidePopup": [
     {
@@ -264,6 +306,7 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/44/75/",
       "Message": "「ブルアカ」PC版 リリース！",
       "SurveyId": 0,
+      "NotifyUrl": null,
       "GotoUrl": "https://bluearchive.jp/news/newsJump/627",
       "DisplayOrder": 1,
       "PopupOKText": "詳細確認"
@@ -278,6 +321,8 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/45/78/",
       "Message": "アンケートに協力して、報酬を受け取りましょう！",
       "SurveyId": 338603093,
+      "NotifyUrl": null,
+      "GotoUrl": null,
       "DisplayOrder": 1,
       "PopupOKText": ""
     },
@@ -291,6 +336,7 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/46/79/",
       "Message": "　　　　　ブルアカらいぶ！ 　　　　　放送中！",
       "SurveyId": 0,
+      "NotifyUrl": null,
       "GotoUrl": "https://app.adjust.com/1z2av39t?redirect=https%3A%2F%2Fwww.youtube.com%2Flive%2Fjy-kAisDrLM",
       "DisplayOrder": 0,
       "PopupOKText": "見に行く"
@@ -305,6 +351,7 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/47/80/",
       "Message": "　　　　　ブルアカらいぶ！　　 　　　放送中！",
       "SurveyId": 0,
+      "NotifyUrl": null,
       "GotoUrl": "https://app.adjust.com/218zse8u?redirect=https%3A%2F%2Fwww.youtube.com%2Flive%2FN-WHdoxBDdU",
       "DisplayOrder": 0,
       "PopupOKText": "見に行く"
@@ -319,6 +366,7 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/48/81/",
       "Message": "　 ブルーアーカイブ5.5周年生放送　　　見に行きましょう！",
       "SurveyId": 0,
+      "NotifyUrl": null,
       "GotoUrl": "https://app.adjust.com/22w9gbzn?redirect=https%3A%2F%2Fwww.youtube.com%2Flive%2FtQ4z_gAngHc",
       "DisplayOrder": 0,
       "PopupOKText": "見に行く"
@@ -333,6 +381,7 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/49/82/",
       "Message": "　 ブルーアーカイブ5.5周年生放送　　　見に行きましょう！",
       "SurveyId": 0,
+      "NotifyUrl": null,
       "GotoUrl": "https://app.adjust.com/22w9gbzn?redirect=https%3A%2F%2Fwww.youtube.com%2Flive%2FtQ4z_gAngHc",
       "DisplayOrder": 0,
       "PopupOKText": "見に行く"
@@ -347,6 +396,7 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/50/83/",
       "Message": "　　　　夏のブルアカいらいぶ！　　　　見に行きましょう！",
       "SurveyId": 0,
+      "NotifyUrl": null,
       "GotoUrl": "https://app.adjust.com/22w9gbzn?redirect=https%3A%2F%2Fwww.youtube.com%2Flive%2FtQ4z_gAngHc",
       "DisplayOrder": 0,
       "PopupOKText": "見に行く"
@@ -361,6 +411,7 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/51/84/",
       "Message": "　　　　　ブルアカらいぶ！　　 　　　放送中！",
       "SurveyId": 0,
+      "NotifyUrl": null,
       "GotoUrl": "https://app.adjust.com/25ekoa1z?redirect=https%3A%2F%2Fwww.youtube.com%2Flive%2F6fojOSl5njY",
       "DisplayOrder": 0,
       "PopupOKText": "見に行く"
