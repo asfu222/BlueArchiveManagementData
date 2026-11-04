@@ -153,6 +153,19 @@
       "BannerType": 1,
       "BannerDisplayType": 0,
       "BannerEventTagPosition": 0
+    },
+    {
+      "BannerId": 1039,
+      "StartDate": "2026-11-04T11:00:00",
+      "EndDate": "2026-11-11T03:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1039/1345/",
+      "FileName": [
+        "Raid_Banner_23_Jp_55736264.png"
+      ],
+      "LinkedLobbyBannerId": 0,
+      "BannerType": 4,
+      "BannerDisplayType": 0,
+      "BannerEventTagPosition": 1
     }
   ],
   "ServerStatus": 1,
