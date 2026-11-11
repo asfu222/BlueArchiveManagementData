@@ -12,7 +12,7 @@
       "NoticeId": 1080,
       "StartDate": "2026-11-10T15:00:00",
       "EndDate": "2026-11-18T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1080/3730/index356053590.html",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1080/3731/index641853938.html",
       "Title": "メンテナンス",
       "DisplayOrder": 0
     }
@@ -42,19 +42,6 @@
     "Text": "定期メンテナンス中"
   },
   "Banners": [
-    {
-      "BannerId": 1031,
-      "StartDate": "2026-10-28T11:18:37",
-      "EndDate": "2026-11-18T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1031/1337/",
-      "FileName": [
-        "Event_Banner_864_Jp_327024347.png"
-      ],
-      "LinkedLobbyBannerId": 864,
-      "BannerType": 0,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 1
-    },
     {
       "BannerId": 1033,
       "StartDate": "2026-10-28T14:34:10",
@@ -119,9 +106,87 @@
       "BannerType": 1,
       "BannerDisplayType": 0,
       "BannerEventTagPosition": 0
+    },
+    {
+      "BannerId": 1040,
+      "StartDate": "2026-11-11T11:07:31",
+      "EndDate": "2026-11-18T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1040/1346/",
+      "FileName": [
+        "復刻_Lobby_Banner_ミヨ_569911507.png"
+      ],
+      "LinkedLobbyBannerId": 1082,
+      "BannerType": 1,
+      "BannerDisplayType": 0,
+      "BannerEventTagPosition": 0
+    },
+    {
+      "BannerId": 1041,
+      "StartDate": "2026-11-11T11:08:33",
+      "EndDate": "2026-11-18T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1041/1347/",
+      "FileName": [
+        "復刻_Lobby_Banner_フユ_83837221.png"
+      ],
+      "LinkedLobbyBannerId": 1083,
+      "BannerType": 1,
+      "BannerDisplayType": 0,
+      "BannerEventTagPosition": 0
+    },
+    {
+      "BannerId": 1042,
+      "StartDate": "2026-11-11T11:09:02",
+      "EndDate": "2026-11-18T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1042/1348/",
+      "FileName": [
+        "復刻_Lobby_Banner_リツ_909075191.png"
+      ],
+      "LinkedLobbyBannerId": 1084,
+      "BannerType": 1,
+      "BannerDisplayType": 0,
+      "BannerEventTagPosition": 0
+    },
+    {
+      "BannerId": 1043,
+      "StartDate": "2026-11-11T11:14:35",
+      "EndDate": "2026-12-02T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1043/1349/",
+      "FileName": [
+        "Event_Banner_850_Jp_260027651.png"
+      ],
+      "LinkedLobbyBannerId": 10850,
+      "BannerType": 0,
+      "BannerDisplayType": 0,
+      "BannerEventTagPosition": 0
+    },
+    {
+      "BannerId": 1044,
+      "StartDate": "2026-11-11T11:20:23",
+      "EndDate": "2026-11-18T03:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1044/1351/",
+      "FileName": [
+        "TimeAttack_Banner_Jp_new_512144055.png"
+      ],
+      "LinkedLobbyBannerId": 0,
+      "BannerType": 26,
+      "BannerDisplayType": 0,
+      "BannerEventTagPosition": 1
+    },
+    {
+      "BannerId": 1045,
+      "StartDate": "2026-11-11T11:29:03",
+      "EndDate": "2026-11-18T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1045/1352/",
+      "FileName": [
+        "Event_Banner_864_Jp_250400485.png"
+      ],
+      "LinkedLobbyBannerId": 864,
+      "BannerType": 0,
+      "BannerDisplayType": 0,
+      "BannerEventTagPosition": 1
     }
   ],
-  "ServerStatus": 7,
+  "ServerStatus": 1,
   "LatestClientVersion": "1.74.468622",
   "LatestAndroidClientVersion": "1.74.468622",
   "LatestIosClientVersion": "1.74.468622",
@@ -221,6 +286,24 @@
       "GachaProbabilityDisplayId": 665,
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/665/index.html",
       "LinkedLobbyBannerId": 5100,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 666,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/666/index.html",
+      "LinkedLobbyBannerId": 1082,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 667,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/667/index.html",
+      "LinkedLobbyBannerId": 1083,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 668,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/668/index.html",
+      "LinkedLobbyBannerId": 1084,
       "GachaDisplayTag": -1
     }
   ],
@@ -381,6 +464,21 @@
       "GotoUrl": "https://app.adjust.com/25ekoa1z?redirect=https%3A%2F%2Fwww.youtube.com%2Flive%2F6fojOSl5njY",
       "DisplayOrder": 0,
       "PopupOKText": "見に行く"
+    },
+    {
+      "GuidePopupId": 52,
+      "GuidePopupType": 0,
+      "PopupType": 1,
+      "StartDate": "2026-11-11T13:08:24",
+      "EndDate": "2026-12-08T23:59:59",
+      "FileName": "20261111-130852.png",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/52/85/",
+      "Message": "「仮想適性試験β版」アンケート 開催中",
+      "SurveyId": 390838300,
+      "NotifyUrl": null,
+      "GotoUrl": null,
+      "DisplayOrder": 1,
+      "PopupOKText": ""
     }
   ],
   "DownloadLimitTime": 0.0,
