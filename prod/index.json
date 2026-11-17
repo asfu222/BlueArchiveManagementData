@@ -41,6 +41,14 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/1079/3727/index702088845.html",
       "Title": "イベント紹介",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1082,
+      "StartDate": "2026-11-17T14:00:00",
+      "EndDate": "2026-11-24T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1082/3733/index644498656.html",
+      "Title": "ピックアップ予告",
+      "DisplayOrder": 0
     }
   ],
   "Issues": [],
@@ -312,6 +320,24 @@
       "GachaProbabilityDisplayId": 668,
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/668/index.html",
       "LinkedLobbyBannerId": 1084,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 669,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/669/index.html",
+      "LinkedLobbyBannerId": 1085,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 670,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/670/index.html",
+      "LinkedLobbyBannerId": 1086,
+      "GachaDisplayTag": -1
+    },
+    {
+      "GachaProbabilityDisplayId": 671,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/671/index.html",
+      "LinkedLobbyBannerId": 1087,
       "GachaDisplayTag": -1
     }
   ],
