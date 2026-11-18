@@ -187,6 +187,58 @@
       "BannerType": 0,
       "BannerDisplayType": 0,
       "BannerEventTagPosition": 1
+    },
+    {
+      "BannerId": 1046,
+      "StartDate": "2026-11-18T11:00:00",
+      "EndDate": "2026-11-25T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1046/1354/",
+      "FileName": [
+        "復刻_Lobby_Banner_キサキ_2026_908086797.png"
+      ],
+      "LinkedLobbyBannerId": 1085,
+      "BannerType": 1,
+      "BannerDisplayType": 0,
+      "BannerEventTagPosition": 0
+    },
+    {
+      "BannerId": 1047,
+      "StartDate": "2026-11-18T11:00:00",
+      "EndDate": "2026-11-25T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1047/1355/",
+      "FileName": [
+        "復刻_Lobby_Banner_シロコ(水着)_2026_547577286.png"
+      ],
+      "LinkedLobbyBannerId": 1086,
+      "BannerType": 1,
+      "BannerDisplayType": 0,
+      "BannerEventTagPosition": 0
+    },
+    {
+      "BannerId": 1048,
+      "StartDate": "2026-11-18T11:00:00",
+      "EndDate": "2026-11-25T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1048/1356/",
+      "FileName": [
+        "復刻_Lobby_Banner_レイジョ_2026_832387308.png"
+      ],
+      "LinkedLobbyBannerId": 1087,
+      "BannerType": 1,
+      "BannerDisplayType": 0,
+      "BannerEventTagPosition": 0
+    },
+    {
+      "BannerId": 1049,
+      "StartDate": "2026-11-18T11:00:00",
+      "EndDate": "2026-11-25T03:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1049/1357/",
+      "FileName": [
+        "Eliminate_Banner_14_Jp_812902043.png"
+      ],
+      "LinkedLobbyBannerId": 0,
+      "BannerType": 27,
+      "BannerDisplayType": 0,
+      "BannerEventTagPosition": 1
     }
   ],
   "ServerStatus": 1,
