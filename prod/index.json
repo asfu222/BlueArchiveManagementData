@@ -9,14 +9,6 @@
       "DisplayOrder": 0
     },
     {
-      "NoticeId": 1080,
-      "StartDate": "2026-11-10T15:00:00",
-      "EndDate": "2026-11-18T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1080/3731/index641853938.html",
-      "Title": "メンテナンス",
-      "DisplayOrder": 0
-    },
-    {
       "NoticeId": 1081,
       "StartDate": "2026-11-10T15:00:00",
       "EndDate": "2027-01-01T11:00:00",
@@ -26,22 +18,6 @@
     }
   ],
   "Events": [
-    {
-      "NoticeId": 1078,
-      "StartDate": "2026-11-10T14:00:00",
-      "EndDate": "2026-11-18T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1078/3729/index149389057.html",
-      "Title": "ピックアップ予告",
-      "DisplayOrder": 0
-    },
-    {
-      "NoticeId": 1079,
-      "StartDate": "2026-11-10T15:00:00",
-      "EndDate": "2026-11-18T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1079/3727/index702088845.html",
-      "Title": "イベント紹介",
-      "DisplayOrder": 0
-    },
     {
       "NoticeId": 1082,
       "StartDate": "2026-11-17T14:00:00",
@@ -124,45 +100,6 @@
       "BannerEventTagPosition": 0
     },
     {
-      "BannerId": 1040,
-      "StartDate": "2026-11-11T11:07:31",
-      "EndDate": "2026-11-18T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1040/1346/",
-      "FileName": [
-        "復刻_Lobby_Banner_ミヨ_569911507.png"
-      ],
-      "LinkedLobbyBannerId": 1082,
-      "BannerType": 1,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
-    },
-    {
-      "BannerId": 1041,
-      "StartDate": "2026-11-11T11:08:33",
-      "EndDate": "2026-11-18T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1041/1347/",
-      "FileName": [
-        "復刻_Lobby_Banner_フユ_83837221.png"
-      ],
-      "LinkedLobbyBannerId": 1083,
-      "BannerType": 1,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
-    },
-    {
-      "BannerId": 1042,
-      "StartDate": "2026-11-11T11:09:02",
-      "EndDate": "2026-11-18T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1042/1348/",
-      "FileName": [
-        "復刻_Lobby_Banner_リツ_909075191.png"
-      ],
-      "LinkedLobbyBannerId": 1084,
-      "BannerType": 1,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
-    },
-    {
       "BannerId": 1043,
       "StartDate": "2026-11-11T11:14:35",
       "EndDate": "2026-12-02T10:59:59",
@@ -174,19 +111,6 @@
       "BannerType": 0,
       "BannerDisplayType": 0,
       "BannerEventTagPosition": 0
-    },
-    {
-      "BannerId": 1045,
-      "StartDate": "2026-11-11T11:29:03",
-      "EndDate": "2026-11-18T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1045/1352/",
-      "FileName": [
-        "Event_Banner_864_Jp_250400485.png"
-      ],
-      "LinkedLobbyBannerId": 864,
-      "BannerType": 0,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 1
     },
     {
       "BannerId": 1046,
