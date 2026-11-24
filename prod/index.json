@@ -15,22 +15,38 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/1081/3732/index388260068.html",
       "Title": "アカウント引き継ぎ申請受付開始",
       "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1085,
+      "StartDate": "2026-11-24T15:00:00",
+      "EndDate": "2026-12-02T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1085/3741/index152785574.html",
+      "Title": "メンテナンス",
+      "DisplayOrder": 0
     }
   ],
   "Events": [
     {
-      "NoticeId": 1082,
-      "StartDate": "2026-11-17T14:00:00",
-      "EndDate": "2026-11-24T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1082/3733/index644498656.html",
+      "NoticeId": 1083,
+      "StartDate": "2026-11-24T14:00:00",
+      "EndDate": "2026-12-09T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1083/3735/index567212096.html",
       "Title": "ピックアップ予告",
+      "DisplayOrder": 0
+    },
+    {
+      "NoticeId": 1084,
+      "StartDate": "2026-11-24T15:00:00",
+      "EndDate": "2026-12-09T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1084/3738/index745846539.html",
+      "Title": "イベント紹介",
       "DisplayOrder": 0
     }
   ],
   "Issues": [],
   "Maintenance": {
-    "StartDate": "2026-11-11T11:00:00",
-    "EndDate": "2026-11-11T17:00:00",
+    "StartDate": "2026-11-25T11:00:00",
+    "EndDate": "2026-11-25T19:00:00",
     "Text": "定期メンテナンス中"
   },
   "Banners": [
