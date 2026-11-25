@@ -20,7 +20,7 @@
       "NoticeId": 1085,
       "StartDate": "2026-11-24T15:00:00",
       "EndDate": "2026-12-02T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1085/3742/index388517847.html",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/1085/3745/index335440651.html",
       "Title": "メンテナンス",
       "DisplayOrder": 0
     }
@@ -51,128 +51,63 @@
   },
   "Banners": [
     {
-      "BannerId": 1033,
-      "StartDate": "2026-10-28T14:34:10",
-      "EndDate": "2026-11-25T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1033/1339/",
+      "BannerId": 1050,
+      "StartDate": "2026-11-25T11:21:41",
+      "EndDate": "2026-12-09T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1050/1358/",
       "FileName": [
-        "属性別募集パッケージバナー_爆発_2026_243782327.png"
+        "Lobby_Banner_マナミPU_22662561.png"
       ],
-      "LinkedLobbyBannerId": 2110,
+      "LinkedLobbyBannerId": 1090,
       "BannerType": 1,
       "BannerDisplayType": 0,
       "BannerEventTagPosition": 0
     },
     {
-      "BannerId": 1034,
-      "StartDate": "2026-10-28T14:36:58",
-      "EndDate": "2026-11-25T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1034/1340/",
+      "BannerId": 1051,
+      "StartDate": "2026-11-25T11:22:35",
+      "EndDate": "2026-12-09T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1051/1359/",
       "FileName": [
-        "属性別募集パッケージバナー_貫通_2026_351278034.png"
+        "Lobby_Banner_ウララPU_820850624.png"
       ],
-      "LinkedLobbyBannerId": 2210,
+      "LinkedLobbyBannerId": 1091,
       "BannerType": 1,
       "BannerDisplayType": 0,
       "BannerEventTagPosition": 0
     },
     {
-      "BannerId": 1035,
-      "StartDate": "2026-10-28T14:37:59",
-      "EndDate": "2026-11-25T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1035/1341/",
+      "BannerId": 1052,
+      "StartDate": "2026-11-25T11:23:08",
+      "EndDate": "2026-12-16T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1052/1360/",
       "FileName": [
-        "属性別募集パッケージバナー_神秘_2026_850866140.png"
+        "Event_Banner_865_Jp_981916732.png"
       ],
-      "LinkedLobbyBannerId": 2310,
-      "BannerType": 1,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
-    },
-    {
-      "BannerId": 1036,
-      "StartDate": "2026-10-28T14:40:05",
-      "EndDate": "2026-11-25T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1036/1342/",
-      "FileName": [
-        "属性別募集パッケージバナー_振動_2026_884818692.png"
-      ],
-      "LinkedLobbyBannerId": 2410,
-      "BannerType": 1,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
-    },
-    {
-      "BannerId": 1038,
-      "StartDate": "2026-10-28T15:11:56",
-      "EndDate": "2026-11-25T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1038/1344/",
-      "FileName": [
-        "Event_Banner_110000_Jp_192905083.png"
-      ],
-      "LinkedLobbyBannerId": 5100,
-      "BannerType": 1,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
-    },
-    {
-      "BannerId": 1043,
-      "StartDate": "2026-11-11T11:14:35",
-      "EndDate": "2026-12-02T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1043/1349/",
-      "FileName": [
-        "Event_Banner_850_Jp_260027651.png"
-      ],
-      "LinkedLobbyBannerId": 10850,
+      "LinkedLobbyBannerId": 865,
       "BannerType": 0,
       "BannerDisplayType": 0,
       "BannerEventTagPosition": 0
     },
     {
-      "BannerId": 1046,
-      "StartDate": "2026-11-18T11:00:00",
-      "EndDate": "2026-11-25T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1046/1354/",
+      "BannerId": 1053,
+      "StartDate": "2026-11-25T12:31:29",
+      "EndDate": "2026-12-02T10:59:59",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1053/1361/",
       "FileName": [
-        "復刻_Lobby_Banner_キサキ_2026_908086797.png"
+        "Event_Banner_850_Jp_373577587.png"
       ],
-      "LinkedLobbyBannerId": 1085,
-      "BannerType": 1,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
-    },
-    {
-      "BannerId": 1047,
-      "StartDate": "2026-11-18T11:00:00",
-      "EndDate": "2026-11-25T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1047/1355/",
-      "FileName": [
-        "復刻_Lobby_Banner_シロコ(水着)_2026_547577286.png"
-      ],
-      "LinkedLobbyBannerId": 1086,
-      "BannerType": 1,
-      "BannerDisplayType": 0,
-      "BannerEventTagPosition": 0
-    },
-    {
-      "BannerId": 1048,
-      "StartDate": "2026-11-18T11:00:00",
-      "EndDate": "2026-11-25T10:59:59",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/1048/1356/",
-      "FileName": [
-        "復刻_Lobby_Banner_レイジョ_2026_832387308.png"
-      ],
-      "LinkedLobbyBannerId": 1087,
-      "BannerType": 1,
+      "LinkedLobbyBannerId": 10850,
+      "BannerType": 0,
       "BannerDisplayType": 0,
       "BannerEventTagPosition": 0
     }
   ],
   "ServerStatus": 1,
-  "LatestClientVersion": "1.74.468622",
-  "LatestAndroidClientVersion": "1.74.468622",
-  "LatestIosClientVersion": "1.74.468622",
-  "LatestPCClientVersion": "1.74.468622",
+  "LatestClientVersion": "1.75.477510",
+  "LatestAndroidClientVersion": "1.75.477510",
+  "LatestIosClientVersion": "1.75.477510",
+  "LatestPCClientVersion": "1.75.477510",
   "GachaProbabilityDisplay": [
     {
       "GachaProbabilityDisplayId": 62,
@@ -229,81 +164,15 @@
       "GachaDisplayTag": -1
     },
     {
-      "GachaProbabilityDisplayId": 659,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/659/index.html",
-      "LinkedLobbyBannerId": 1080,
+      "GachaProbabilityDisplayId": 672,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/672/index.html",
+      "LinkedLobbyBannerId": 1090,
       "GachaDisplayTag": -1
     },
     {
-      "GachaProbabilityDisplayId": 660,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/660/index.html",
-      "LinkedLobbyBannerId": 1081,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 661,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/661/index.html",
-      "LinkedLobbyBannerId": 2110,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 662,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/662/index.html",
-      "LinkedLobbyBannerId": 2210,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 663,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/663/index.html",
-      "LinkedLobbyBannerId": 2310,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 664,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/664/index.html",
-      "LinkedLobbyBannerId": 2410,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 665,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/665/index.html",
-      "LinkedLobbyBannerId": 5100,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 666,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/666/index.html",
-      "LinkedLobbyBannerId": 1082,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 667,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/667/index.html",
-      "LinkedLobbyBannerId": 1083,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 668,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/668/index.html",
-      "LinkedLobbyBannerId": 1084,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 669,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/669/index.html",
-      "LinkedLobbyBannerId": 1085,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 670,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/670/index.html",
-      "LinkedLobbyBannerId": 1086,
-      "GachaDisplayTag": -1
-    },
-    {
-      "GachaProbabilityDisplayId": 671,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/671/index.html",
-      "LinkedLobbyBannerId": 1087,
+      "GachaProbabilityDisplayId": 673,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/673/index.html",
+      "LinkedLobbyBannerId": 1091,
       "GachaDisplayTag": -1
     }
   ],
@@ -482,5 +351,11 @@
     }
   ],
   "DownloadLimitTime": 0.0,
-  "EnableSQLite": true
+  "EnableSQLite": true,
+  "ServiceTransferNotice": {
+    "PopupEnable": true,
+    "FinalPopupStartDate": null,
+    "GotoUrl": "https://ba-account-migration.yostar.co.jp",
+    "ImageUrl": "https://prod-notice.bluearchiveyostar.com/prod/ServiceTransferNotice/ServiceTansperNotice_20261118105539_20261125141440.png"
+  }
 }
