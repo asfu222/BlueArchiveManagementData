@@ -350,7 +350,7 @@
       "PopupOKText": ""
     }
   ],
-  "DownloadLimitTime": 0.0,
+  "DownloadLimitTime": 3600.0,
   "EnableSQLite": true,
   "ServiceTransferNotice": {
     "PopupEnable": true,
